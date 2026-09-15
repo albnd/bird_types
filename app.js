@@ -1,15 +1,8 @@
 // ---------------------------------------------------------------------
 // CONFIG
 // ---------------------------------------------------------------------
-<<<<<<< HEAD
-=======
-// Replace with your actual "submit a correction" form once built (Google
-// Forms / MS Forms). If the form supports pre-filled fields, add the
-// institution name as a query param matching your form's field ID -
-// see https://support.google.com/docs/answer/160000 ("Get pre-filled link").
->>>>>>> e33ee3212b7f252f431af876e86092d52dc02686
+// Your Microsoft Forms "submit a correction" link.
 const CORRECTION_FORM_URL = "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=AZyic3hOf0Og1MhVPhlgwaRoQWIuOpdOmEogSlS-oFhUQjVUMktROE9XNjVaS1hEUzI4NlNHQkJKNS4u";
-
 // ---------------------------------------------------------------------
 
 const resultsEl = document.getElementById("results");

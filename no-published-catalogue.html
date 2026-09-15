@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Collections without a published type catalogue</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <a class="back-link" href="index.html">&larr; Back to the bibliography</a>
+
+    <header class="masthead">
+      <h1>Collections without a published type catalogue</h1>
+      <p>
+        Institutions where we believe bird type specimens may be held, but where we are not
+        aware of any formally published catalogue. Some are referenced in Mlikovský's general
+        checklists, some have only an informal online list, and for some we have no information
+        at all. Search by institution name, abbreviation, city or country.
+      </p>
+    </header>
+
+    <div class="search-row">
+      <input
+        id="search"
+        type="search"
+        autocomplete="off"
+        placeholder="Search institution, city, country, or code…"
+        aria-label="Search collections"
+      />
+    </div>
+    <p class="meta-line" id="meta-line">Loading…</p>
+
+    <ul id="results" aria-live="polite"></ul>
+    <p class="empty-state" id="empty-state" hidden>No collections match that search.</p>
+
+    <footer>
+      Compiled by the Bird Group, Natural History Museum, Tring. Know of a published or online
+      list for one of these collections? Use the "Submit a correction" link on the
+      <a href="index.html">main bibliography</a> to let us know.
+    </footer>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+  <script src="catalogue-status.js"></script>
+</body>
+</html>

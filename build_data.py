@@ -36,6 +36,9 @@ BIB_PATH = "/mnt/user-data/uploads/BirdTypePublications_20260908.bib"
 XLSX_PATH = "/mnt/user-data/uploads/all_tags_canonical_20260914.xlsx"
 XLSX_SHEET = "all_tags_canonical"
 
+UNCATALOGUED_XLSX_PATH = "/mnt/user-data/uploads/Institutions_with_no_type_pubs_20260914.xlsx"
+UNCATALOGUED_SHEET = "Sheet1"
+
 BUILD_ROOT = Path("/home/claude/build/output")
 SITE_DIR = BUILD_ROOT / "site"  # public - this whole folder is what you push to GitHub Pages
 REPORTS_DIR = BUILD_ROOT / "reports_internal"  # for you only - don't publish this folder
@@ -47,6 +50,14 @@ LINK_MARKER_RE = re.compile(r"^(HYPERLINK|LINK\d*|BHL\d*|DOI|NHL)\b", re.IGNOREC
 HYPERLINK_URL_RE = re.compile(r'HYPERLINK\s+"([^"]+)"')
 BRACKET_RE = re.compile(r"\[([^\]]*)\]")
 BRACE_RE = re.compile(r"[{}]")
+
+CATALOGUE_STATUS_LABELS = {
+    "none": "No known type-specimen list, published or online",
+    "online": "Informal online list only (not formally published)",
+    "M23": "Referenced in Mlikovský (2023)",
+    "M25": "Referenced in Mlikovský (2025)",
+    "M23 & M25": "Referenced in Mlikovský (2023, 2025)",
+}
 
 # ---------------------------------------------------------------------------
 
@@ -180,6 +191,62 @@ def institution_id(row):
 
 def country_id(row):
     return "country-" + slugify(row["canonical_country"])
+
+
+def build_uncatalogued(xlsx_path, sheet, main_institutions_by_abbr):
+    """Read the 'no known published type catalogue' xlsx and cross-check
+    each row against the main bibliography's institution list, so a curator
+    can see if scattered references exist even though no dedicated
+    catalogue does."""
+    wb = openpyxl.load_workbook(xlsx_path, data_only=True)
+    ws = wb[sheet]
+    rows = list(ws.iter_rows(values_only=True))
+    header = rows[0]
+    records = []
+    overlap_rows = []
+    seen_ids = {}
+    for r in rows[1:]:
+        d = {k: fix_mojibake(v) for k, v in zip(header, r)}
+        name = (d.get("Institution") or "").strip()
+        if not name:
+            continue
+        abbr = (d.get("Abbreviation") or "").strip()
+        city = (d.get("City") or "").strip()
+        country = (d.get("Country") or "").strip()
+        status_code = (d.get("Catalogue") or "none").strip()
+        rid = slugify(f"{abbr}-{city}") if abbr else slugify(f"{name}-{city}")
+        # guard against accidental id collisions (distinct from the known
+        # abbreviation coincidence this file already contains, e.g. MMNH)
+        if rid in seen_ids:
+            rid = rid + "-2"
+        seen_ids[rid] = name
+
+        main_match = main_institutions_by_abbr.get(abbr) if abbr else None
+        if main_match:
+            overlap_rows.append(
+                {
+                    "abbreviation": abbr,
+                    "name_in_this_list": name,
+                    "name_in_main_bibliography": main_match["name"],
+                    "main_publication_count": main_match["publication_count"],
+                }
+            )
+
+        records.append(
+            {
+                "id": rid,
+                "name": name,
+                "abbreviation": abbr or None,
+                "city": city or None,
+                "country": country or None,
+                "status_code": status_code,
+                "status_label": CATALOGUE_STATUS_LABELS.get(status_code, status_code),
+                "has_scattered_references": bool(main_match),
+                "main_bibliography_query": abbr if main_match else None,
+            }
+        )
+    records.sort(key=lambda r: (r["country"] or "", r["name"]))
+    return records, overlap_rows
 
 
 def main():
@@ -321,6 +388,14 @@ def main():
     ]
     institutions_out.sort(key=lambda r: (r["type"] != "institution", r["name"] or ""))
 
+    # --- uncatalogued-collections list --------------------------------------
+    main_institutions_by_abbr = {
+        r["abbreviation"]: r for r in institutions_out if r["type"] == "institution" and r["abbreviation"]
+    }
+    uncatalogued_records, catalogue_overlap_rows = build_uncatalogued(
+        UNCATALOGUED_XLSX_PATH, UNCATALOGUED_SHEET, main_institutions_by_abbr
+    )
+
     # --- duplicate-abbreviation report --------------------------------------
     by_abbr = defaultdict(set)
     for row in raw_rows:
@@ -341,6 +416,22 @@ def main():
 
     with open(SITE_DIR / "data" / "publications.json", "w", encoding="utf-8") as f:
         json.dump(publications, f, ensure_ascii=False, indent=1)
+
+    with open(SITE_DIR / "data" / "uncatalogued.json", "w", encoding="utf-8") as f:
+        json.dump(uncatalogued_records, f, ensure_ascii=False, indent=1)
+
+    with open(REPORTS_DIR / "catalogue_status_overlap.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(
+            f,
+            fieldnames=[
+                "abbreviation",
+                "name_in_this_list",
+                "name_in_main_bibliography",
+                "main_publication_count",
+            ],
+        )
+        w.writeheader()
+        w.writerows(catalogue_overlap_rows)
 
     with open(REPORTS_DIR / "tag_gaps.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["citekey", "raw_tag", "issue"])
@@ -366,6 +457,8 @@ def main():
     print(f"Tag gap rows:            {len(tag_gap_rows)}")
     print(f"Duplicate-abbrev rows:   {len(dup_report)}")
     print(f"Ungrouped publications:  {len(ungrouped)}")
+    print(f"Uncatalogued collections: {len(uncatalogued_records)}")
+    print(f"  - also have scattered refs in main bibliography: {len(catalogue_overlap_rows)}")
 
 
 if __name__ == "__main__":

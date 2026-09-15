@@ -177,6 +177,37 @@ header.masthead p {
 }
 .correction-link:hover { color: var(--terracotta-deep); border-color: var(--terracotta-deep); }
 
+/* -- status badges (no-published-catalogue page) -------------------- */
+.status-badge {
+  display: inline-block;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.76rem;
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  white-space: nowrap;
+}
+.status-badge.status-none { color: var(--terracotta-deep); border-color: var(--terracotta); }
+.status-badge.status-online { color: var(--bronze); border-color: var(--bronze); }
+.status-badge.status-ref { color: var(--ink-soft); }
+
+.scatter-note {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.82rem;
+  margin-top: 0.3rem;
+}
+.scatter-note a { color: var(--terracotta-deep); }
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 1.25rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+  color: var(--bronze);
+  text-decoration: none;
+}
+.back-link:hover { color: var(--terracotta-deep); }
+
 .empty-state {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   color: var(--ink-soft);

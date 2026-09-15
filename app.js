@@ -1,8 +1,12 @@
 // ---------------------------------------------------------------------
 // CONFIG
 // ---------------------------------------------------------------------
-// Your Microsoft Forms "submit a correction" link.
-const CORRECTION_FORM_URL = "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=AZyic3hOf0Og1MhVPhlgwaRoQWIuOpdOmEogSlS-oFhUQjVUMktROE9XNjVaS1hEUzI4NlNHQkJKNS4u";
+// Replace with your actual "submit a correction" form once built (Google
+// Forms / MS Forms). If the form supports pre-filled fields, add the
+// institution name as a query param matching your form's field ID -
+// see https://support.google.com/docs/answer/160000 ("Get pre-filled link").
+const CORRECTION_FORM_BASE_URL = "https://forms.gle/REPLACE_ME";
+
 // ---------------------------------------------------------------------
 
 const resultsEl = document.getElementById("results");
@@ -21,7 +25,8 @@ function escapeHtml(s) {
 }
 
 function correctionLink(record) {
-  return CORRECTION_FORM_URL;
+  const label = encodeURIComponent(`${record.name}${record.abbreviation ? " (" + record.abbreviation + ")" : ""}`);
+  return `${CORRECTION_FORM_BASE_URL}?entry.institution=${label}`;
 }
 
 function renderPublication(pub) {
@@ -131,6 +136,15 @@ async function init() {
     `${institutions.length} collections · ${linkedPubs} of ${totalPubs} references linked`;
 
   render(institutions);
+
+  // support deep-links like index.html?q=ZMB - used by the "no published
+  // catalogue" page to point at scattered references for an institution
+  const params = new URLSearchParams(location.search);
+  const q = params.get("q");
+  if (q) {
+    searchEl.value = q;
+    runSearch(q);
+  }
 
   searchEl.addEventListener("input", (e) => runSearch(e.target.value));
 }

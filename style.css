@@ -1,0 +1,197 @@
+/* ---------------------------------------------------------------------
+   Palette drawn from the NHM Waterhouse building: terracotta facade,
+   portland-stone galleries, weathered bronze ironwork.
+--------------------------------------------------------------------- */
+:root {
+  --stone: #eae5d6;
+  --stone-deep: #ddd6c1;
+  --ink: #262b23;
+  --ink-soft: #4c5347;
+  --terracotta: #a8583a;
+  --terracotta-deep: #8a4530;
+  --bronze: #5c6a52;
+  --rule: #c9c1a8;
+  --card-bg: #f4f1e6;
+  --focus: #2f5233;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--stone);
+  color: var(--ink);
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  line-height: 1.5;
+}
+
+.wrap {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 5rem;
+}
+
+header.masthead {
+  border-bottom: 3px double var(--rule);
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.75rem;
+}
+
+header.masthead h1 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  margin: 0 0 0.4rem;
+  letter-spacing: 0.01em;
+}
+
+header.masthead p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  max-width: 38rem;
+  margin: 0;
+}
+
+/* -- search ------------------------------------------------------- */
+.search-row {
+  display: flex;
+  gap: 0.6rem;
+  margin: 1.75rem 0 0.6rem;
+}
+
+#search {
+  flex: 1;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 1.05rem;
+  padding: 0.65rem 0.85rem;
+  border: 1.5px solid var(--bronze);
+  background: var(--card-bg);
+  color: var(--ink);
+  border-radius: 2px;
+}
+
+#search:focus {
+  outline: 3px solid var(--focus);
+  outline-offset: 1px;
+}
+
+#search::placeholder { color: #8c8570; }
+
+.meta-line {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  margin: 0 0 1.5rem;
+}
+
+/* -- results -------------------------------------------------------- */
+#results { list-style: none; margin: 0; padding: 0; }
+
+.record {
+  border-top: 1px solid var(--rule);
+  padding: 0.95rem 0;
+}
+.record:last-child { border-bottom: 1px solid var(--rule); }
+
+.record-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+}
+.record-head:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+
+.tag-code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  background: var(--stone-deep);
+  color: var(--terracotta-deep);
+  border: 1px solid var(--rule);
+  padding: 0.12rem 0.4rem;
+  border-radius: 2px;
+  flex: none;
+}
+.tag-code.country {
+  color: var(--bronze);
+  font-style: italic;
+}
+
+.record-name { font-size: 1.08rem; flex: 1; }
+
+.record-sub {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  margin-top: 0.15rem;
+}
+
+.record-count {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  flex: none;
+}
+
+.record-body { display: none; margin-top: 0.9rem; padding-left: 0.1rem; }
+.record.open .record-body { display: block; }
+.record.open .disclosure { transform: rotate(90deg); }
+
+.disclosure {
+  display: inline-block;
+  transition: transform 0.15s ease;
+  color: var(--terracotta);
+  flex: none;
+}
+
+.pub {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.92rem;
+  padding: 0.55rem 0 0.55rem 0.9rem;
+  border-left: 2px solid var(--stone-deep);
+  margin-bottom: 0.5rem;
+}
+.pub .pub-title { color: var(--ink); }
+.pub .pub-title a { color: var(--terracotta-deep); text-decoration: none; border-bottom: 1px solid var(--terracotta-deep); }
+.pub .pub-title a:hover { color: var(--terracotta); }
+.pub .pub-cite { color: var(--ink-soft); font-size: 0.86rem; margin-top: 0.15rem; }
+.pub .pub-note { color: var(--bronze); font-size: 0.82rem; font-style: italic; margin-top: 0.15rem; }
+
+.correction-link {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.82rem;
+  color: var(--bronze);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--bronze);
+}
+.correction-link:hover { color: var(--terracotta-deep); border-color: var(--terracotta-deep); }
+
+.empty-state {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: var(--ink-soft);
+  padding: 2rem 0;
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .disclosure { transition: none; }
+}

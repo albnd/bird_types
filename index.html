@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bird Type Specimen Bibliography — Directory of Collections</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <h1>Bird type specimen bibliography</h1>
+      <p>
+        A directory of published references to bird type specimens, grouped by holding
+        institution. Search by institution name, abbreviation, city or country — try
+        "Berlin" or "ZMB". Compiled from an ongoing literature review; not yet complete
+        for every collection.
+      </p>
+    </header>
+
+    <div class="search-row">
+      <input
+        id="search"
+        type="search"
+        autocomplete="off"
+        placeholder="Search institution, city, country, or code…"
+        aria-label="Search collections"
+      />
+    </div>
+    <p class="meta-line" id="meta-line">Loading…</p>
+
+    <ul id="results" aria-live="polite"></ul>
+    <p class="empty-state" id="empty-state" hidden>No collections match that search.</p>
+
+    <footer>
+      Compiled by the Bird Group, Natural History Museum, Tring. Spotted an error or
+      missing reference? Use the "Submit a correction" link on any entry.
+    </footer>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

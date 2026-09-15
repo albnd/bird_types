@@ -1,0 +1,4537 @@
+[
+ {
+  "id": "ansp-philadelphia",
+  "type": "institution",
+  "name": "Academy of Natural Sciences",
+  "abbreviation": "ANSP",
+  "city": "Philadelphia",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "ANSP",
+   "ANSP (Philadelphia)"
+  ],
+  "publications": [
+   "cleereTypesNightjarsCaprimulgidae2005",
+   "fisherTypeSpecimensBirds2006",
+   "ingersollTypeSpecimensBirds2006",
+   "mathewsListSpeciesAustralian1913",
+   "meyerAvianTypesPrincipally1957",
+   "meyerRareExtinctBirds1941",
+   "schauenseeAvianTypesPrincipally1957",
+   "stoneListSpeciesAustralian1913",
+   "stoneStudyTypeSpecimens1899",
+   "stoneStudyTypeSpecimens1899a"
+  ],
+  "publication_count": 10
+ },
+ {
+  "id": "aaza-almaty",
+  "type": "institution",
+  "name": "Almaty State Nature Reserve",
+  "abbreviation": "AAZA",
+  "city": "Almaty",
+  "country": "Kazakhstan",
+  "verbatim_tags": [
+   "Almaty State Nature Reserve (Talgar)"
+  ],
+  "publications": [
+   "korelovNewDataDistribution1948"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "amnh-new-york",
+  "type": "institution",
+  "name": "American Museum of Natural History",
+  "abbreviation": "AMNH",
+  "city": "New York",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "AMNH",
+   "AMNH (New York)"
+  ],
+  "publications": [
+   "allenFurtherNotesMaximilian1891",
+   "allenMaximilianTypesSouth1889",
+   "allenMaximilianTypesSouth1889a",
+   "browningTypeSpecimensHekstras1989",
+   "dickinsonSystematicNotesAsian2001d",
+   "dickinsonTypesDoiseauxRapportes2000",
+   "friedmannNotesTschudisTypes1942",
+   "greenwayTypeSpecimensBirds1973",
+   "greenwayTypeSpecimensBirds1973a",
+   "greenwayTypeSpecimensBirds1978",
+   "greenwayTypeSpecimensBirds1978a",
+   "greenwayTypeSpecimensBirds1987",
+   "greenwayTypeSpecimensBirds1987a",
+   "hartertTypesBirdsTring1918",
+   "hartertTypesBirdsTring1918a",
+   "hartertTypesBirdsTring1919",
+   "hartertTypesBirdsTring1919a",
+   "hartertTypesBirdsTring1920",
+   "hartertTypesBirdsTring1920a",
+   "hartertTypesBirdsTring1922",
+   "hartertTypesBirdsTring1922a",
+   "hartertTypesBirdsTring1924",
+   "hartertTypesBirdsTring1924a",
+   "hartertTypesBirdsTring1925",
+   "hartertTypesBirdsTring1925a",
+   "hartertTypesBirdsTring1926",
+   "hartertTypesBirdsTring1926a",
+   "hartertTypesBirdsTring1927",
+   "hartertTypesBirdsTring1927a",
+   "hartertTypesBirdsTring1928",
+   "hartertTypesBirdsTring1928a",
+   "hartertTypesBirdsTring1929",
+   "hartertTypesBirdsTring1929a",
+   "hartertTypesBirdsTring1931",
+   "hartertTypesBirdsTring1931a",
+   "lecroyAddendaCorrigendaType2017",
+   "lecroyAddendaCorrigendaType2017a",
+   "lecroyCollectionMaximilianPrince2014a",
+   "lecroySystematicNotesAsian2001",
+   "lecroyTypeSpecimensBirds2000",
+   "lecroyTypeSpecimensBirds2003",
+   "lecroyTypeSpecimensBirds2003a",
+   "lecroyTypeSpecimensBirds2005",
+   "lecroyTypeSpecimensBirds2005a",
+   "lecroyTypeSpecimensBirds2008",
+   "lecroyTypeSpecimensBirds2008a",
+   "lecroyTypeSpecimensBirds2010",
+   "lecroyTypeSpecimensBirds2010a",
+   "lecroyTypeSpecimensBirds2011",
+   "lecroyTypeSpecimensBirds2011a",
+   "lecroyTypeSpecimensBirds2012",
+   "lecroyTypeSpecimensBirds2012a",
+   "lecroyTypeSpecimensBirds2013",
+   "lecroyTypeSpecimensBirds2013a",
+   "lecroyTypeSpecimensBirds2014",
+   "lecroyTypeSpecimensBirds2014a",
+   "mlikovskyTypeSpecimensType2015",
+   "mlikovskyTypeSpecimensType2016",
+   "olsonNomenclaturalHistoryAudubons2013",
+   "palmaScientificNameAuthor2012",
+   "rezendeCatalogoDosExemplares2017",
+   "schoddeSettlingNameDiomedea2017",
+   "schoddeSettlingNameDiomedea2017a",
+   "slossTypeSpecimensBirds2000",
+   "tennysonHistoryWalterBullers2009"
+  ],
+  "publication_count": 65
+ },
+ {
+  "id": "aim-auckland",
+  "type": "institution",
+  "name": "Auckland Institute and Museum",
+  "abbreviation": "AIM",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "verbatim_tags": [
+   "AIM",
+   "AIM (Auckland)"
+  ],
+  "publications": [
+   "gillBirdCollectionsMade2007",
+   "gillTypeSpecimensAmphibians1983",
+   "gillTypeSpecimensAmphibians1983a",
+   "powellBiologicalPrimaryTypes1941",
+   "powellBiologicalPrimaryTypes1941a",
+   "powellBiologicalPrimaryTypes1949",
+   "powellBiologicalPrimaryTypes1949a"
+  ],
+  "publication_count": 7
+ },
+ {
+  "id": "ams-sydney",
+  "type": "institution",
+  "name": "Australian Museum",
+  "abbreviation": "AMS",
+  "city": "Sydney",
+  "country": "Australia",
+  "verbatim_tags": [
+   "AMS",
+   "AMS (Sydney)",
+   "AMS (Sydney) and others"
+  ],
+  "publications": [
+   "budenBirdsCollectedOtto2010",
+   "hindwoodListTypesParatypes1946",
+   "hindwoodListTypesParatypes1946a",
+   "longmoreEdgarLayardCharles1995",
+   "longmoreTypeSpecimensBirds1991",
+   "longmoreTypeSpecimensBirds1991a",
+   "mcallanTypesBirdsAves2016"
+  ],
+  "publication_count": 7
+ },
+ {
+  "id": "bpbm-honolulu",
+  "type": "institution",
+  "name": "Bernice P. Bishop Museum",
+  "abbreviation": "BPBM",
+  "city": "Honolulu",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "BBM (Honolulu)",
+   "BPBM"
+  ],
+  "publications": [
+   "olsonTypeSpecimensHawaiian1994",
+   "olsonTypeSpecimensHawaiian1994a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "bzo-linz",
+  "type": "institution",
+  "name": "Biodiversitätszentrum Oberösterreich",
+  "abbreviation": "BZO",
+  "city": "Linz",
+  "country": "Austria",
+  "verbatim_tags": [
+   "BZO",
+   "Linz D"
+  ],
+  "publications": [
+   "aubrechtAGHRudatisBird2004"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "bnhs-bombay",
+  "type": "institution",
+  "name": "Bombay Natural History Society",
+  "abbreviation": "BNHS",
+  "city": "Bombay",
+  "country": "India",
+  "verbatim_tags": [
+   "BNHS"
+  ],
+  "publications": [
+   "abdulaliCatalogueBirdsCollection1991",
+   "abdulaliCatalogueBirdsCollection1992",
+   "abdulaliCatalogueBirdsCollection1995",
+   "abdulaliCatalogueBirdsCollection1996",
+   "unnithanCatalogueBirdsCollection2000",
+   "unnithanCatalogueBirdsCollection2001",
+   "unnithanCatalogueBirdsCollection2004",
+   "unnithanCatalogueBirdsCollection2005"
+  ],
+  "publication_count": 8
+ },
+ {
+  "id": "bmb-brighton-and-hove",
+  "type": "institution",
+  "name": "Booth Museum of Natural History",
+  "abbreviation": "BMB",
+  "city": "Brighton and Hove",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "BMB",
+   "Brighton and Hove D"
+  ],
+  "publications": [
+   "boothCatalogueCasesBirds1876",
+   "boothCatalogueCasesBirds1896"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "cmn-ottawa",
+  "type": "institution",
+  "name": "Canadian Museum of Nature – Musée canadien de la nature (formerly: National Museum of Canada, National Museum of Natural History)",
+  "abbreviation": "CMN",
+  "city": "Ottawa",
+  "country": "Canada",
+  "verbatim_tags": [
+   "CMN"
+  ],
+  "publications": [
+   "sealyTypeSpecimensAvian2019"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "cmc-christchurch",
+  "type": "institution",
+  "name": "Canterbury Museum",
+  "abbreviation": "CMC",
+  "city": "Christchurch",
+  "country": "New Zealand",
+  "verbatim_tags": [
+   "CMC",
+   "CMC (Christchurch)"
+  ],
+  "publications": [
+   "freemanRecentVertebrateTypes1997",
+   "scofieldClarificationStatusType2004",
+   "tunnicliffeRecentVertebrateTypes1997"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "cmp-pittsburgh",
+  "type": "institution",
+  "name": "Carnegie Museum",
+  "abbreviation": "CMP",
+  "city": "Pittsburgh",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "CM",
+   "CM (Pittsburgh)",
+   "CMP"
+  ],
+  "publications": [
+   "tennysonHistoryWalterBullers2009",
+   "toddListTypesBirds1928",
+   "toddListTypesBirds1928a"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "cmt-simferopol",
+  "type": "institution",
+  "name": "Central′nyj muzej Tavridy [Central Museum of the Tauris]",
+  "abbreviation": "CMT",
+  "city": "Simferopol",
+  "country": "Russia",
+  "verbatim_tags": [
+   "CMT"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023",
+   "molcanovSpisokPticEstestvennoIstoriceskogo1906"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "cnic-luanda",
+  "type": "institution",
+  "name": "Centro Nacional de Investigação Científica [National Center for Scientific Research]",
+  "abbreviation": "CNIC",
+  "city": "Luanda",
+  "country": "Angola",
+  "verbatim_tags": [
+   "CNIC"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2025"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "zmh-hamburg",
+  "type": "institution",
+  "name": "Centrum für Naturkunde [formerly: Zoologisches Institut und Zoologisches Museum], Universität Hamburg",
+  "abbreviation": "ZMH",
+  "city": "Hamburg",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Hamburg B",
+   "ZMH",
+   "ZMH (Hamburg)"
+  ],
+  "publications": [
+   "anonymousKatalogSystematischenVogelsammlung",
+   "anonymousKatalogVogelsammlungAus",
+   "bolauTypenVogelsammlungNaturhistorischen1898",
+   "bolauTypenVogelsammlungNaturhistorischen1898a"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "ccwms-sydney",
+  "type": "institution",
+  "name": "Chau Chak Wing Museum, University of Sydney",
+  "abbreviation": "CCWMS",
+  "city": "Sydney",
+  "country": "Australia",
+  "verbatim_tags": [
+   "CCWMS",
+   "CCWMS (Sydney)"
+  ],
+  "publications": [
+   "stanburyTypeSpecimensBirds1969",
+   "stanburyTypeSpecimensBirds1969a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "cub-bangkok",
+  "type": "institution",
+  "name": "Chulalongkon Mahawitthayalai [Chulalongkorn University]",
+  "abbreviation": "CUB",
+  "city": "Bangkok",
+  "country": "Thailand",
+  "verbatim_tags": [
+   "Bangkok",
+   "CUB"
+  ],
+  "publications": [
+   "dickinsonNotesCollectionBirds1970",
+   "dickinsonNotesCollectionBirds1970a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "dmnh-wilmington",
+  "type": "institution",
+  "name": "Delaware Museum of Natural History",
+  "abbreviation": "DMNH",
+  "city": "Wilmington",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "DMNH",
+   "DMNH (Wilmington)"
+  ],
+  "publications": [
+   "dickermanTaxaDescribedAllan1997",
+   "halleyCompositeIdentityMuscicapa2023"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "dmns-denver",
+  "type": "institution",
+  "name": "Denver Museum of Nature and Science",
+  "abbreviation": "DMNS",
+  "city": "Denver",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "DMNS"
+  ],
+  "publications": [
+   "dickermanTaxaDescribedAllan1997"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "dpml-lviv",
+  "type": "institution",
+  "name": "DerÅ¾avnij PrirodoznavÄij Muzej [State Museum of Natural History]",
+  "abbreviation": "DPML",
+  "city": "Lviv",
+  "country": "Ukraine",
+  "verbatim_tags": [
+   "DPML"
+  ],
+  "publications": [
+   "bokotejCatalogueStuffedBirds2024",
+   "bokotejKatalogOrnitologicnoiKolekcii2000",
+   "dzieduszyckiMuzeumImeniaDzieduszyckich1880",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "tmsa-pretoria",
+  "type": "institution",
+  "name": "Ditsong National Museum of Natural History (formerly: Transvaal Museum)",
+  "abbreviation": "TMSA",
+  "city": "Pretoria",
+  "country": "South Africa",
+  "verbatim_tags": [
+   "TM (Pretoria)",
+   "TMSA"
+  ],
+  "publications": [
+   "daviesFurtherAdditionsAmendments2012",
+   "daviesFurtherAdditionsAmendments2012a",
+   "deanTypeSpecimensBirds2007",
+   "deanTypeSpecimensBirds2007a",
+   "dowsettAdditionsCorrectionsCatalogue2011",
+   "dowsettAdditionsCorrectionsCatalogue2011a"
+  ],
+  "publication_count": 6
+ },
+ {
+  "id": "dnsm-durban",
+  "type": "institution",
+  "name": "Durban Natural Science Museum",
+  "abbreviation": "DNSM",
+  "city": "Durban",
+  "country": "South Africa",
+  "verbatim_tags": [
+   "DNSM (Durban)"
+  ],
+  "publications": [
+   "brookeNomenclaturalNotesTypelocalities1974"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "izp-beijing",
+  "type": "institution",
+  "name": "Dòngwù yánjiū suǒ, [Institute of Zoology], Zhōngguó kēxuéyuàn [Chinese Academy of Sciences]",
+  "abbreviation": "IZP",
+  "city": "Beijing",
+  "country": "China",
+  "verbatim_tags": [
+   "IZP"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "ebd-sevilla",
+  "type": "institution",
+  "name": "Estación Biológica de Doñana, Consejo Superior de Investigaciones Científicas [Biological station of Doñana, Spanish National Research Council]",
+  "abbreviation": "EBD",
+  "city": "Sevilla",
+  "country": "Spain",
+  "verbatim_tags": [
+   "EBD",
+   "Sevilla D"
+  ],
+  "publications": [
+   "cabotInventarioColeccionOrnitologica1992"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "uuzm-uppsala",
+  "type": "institution",
+  "name": "Evolutionsmuseet, Uppsala Universitet [Museum of Evolution, Uppsala University]",
+  "abbreviation": "UUZM",
+  "city": "Uppsala",
+  "country": "Sweden",
+  "verbatim_tags": [
+   "UUZM",
+   "UUZM (Uppsala)",
+   "Uppsala B"
+  ],
+  "publications": [
+   "holmSpeciminaLinnaeanaUppsala1957",
+   "lonnbergLinneanTypespecimensBirds1896",
+   "lonnbergLinneanTypespecimensBirds1896a",
+   "lonnbergRemarksTypespecimensCertain1903",
+   "lonnbergRemarksTypespecimensCertain1903a",
+   "thunbergMuseumNaturaliumAcademiae1787",
+   "wallinCatalogueTypeSpecimens",
+   "wallinCatalogueTypeSpecimens1996",
+   "wallinCatalogueTypeSpecimens1997",
+   "wallinLinnaeanSpecimensZoological1992",
+   "wallinUppsalaUniversityMuseum"
+  ],
+  "publication_count": 11
+ },
+ {
+  "id": "fmnh-chicago",
+  "type": "institution",
+  "name": "Field Museum of Natural History",
+  "abbreviation": "FMNH",
+  "city": "Chicago",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "FMNH"
+  ],
+  "publications": [
+   "dickinsonTypesDoiseauxRapportes2000"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "gdm-moscow",
+  "type": "institution",
+  "name": "Gosudarstvennyj Darvinovskij muzej [State Darwinian Museum]",
+  "abbreviation": "GDM",
+  "city": "Moscow",
+  "country": "Russia",
+  "verbatim_tags": [
+   "Darwin Museum (Moscow)",
+   "GDM"
+  ],
+  "publications": [
+   "agafonovaPorodyDomasnihGolubej2005",
+   "fadeevKatalogKollekciiSemejstva2005",
+   "fadeevKolibriKatalogKollekcii2002",
+   "fadeevKollektoryGDMCollectors2007",
+   "fadeevTipovaaSeriaLagopus2004",
+   "fadeevTipovyeEkzemplarySylvia",
+   "fadeevTypeSpecimensSylvia2003",
+   "kostinaSravnitelnaaEvoljucionnaaMorfologia1982",
+   "nesterovKatalogSemejstvaBekasovyh2020",
+   "nesterovSemejstvoUtinyeKatalog2004",
+   "nesterovTypeSeriesLagopus2004"
+  ],
+  "publication_count": 11
+ },
+ {
+  "id": "newhm-newcastle-upon-tyne",
+  "type": "institution",
+  "name": "Great North Museum: Hancock",
+  "abbreviation": "NEWHM",
+  "city": "Newcastle-upon-Tyne",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "NEWHM",
+   "Newcastle-upon-Tyne C"
+  ],
+  "publications": [
+   "howseIndexcatalogueBirdsHancock1900"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "hns-salzburg",
+  "type": "institution",
+  "name": "Haus der Natur Salzburg",
+  "abbreviation": "HNS",
+  "city": "Salzburg",
+  "country": "Austria",
+  "verbatim_tags": [
+   "Salzburg D"
+  ],
+  "publications": [
+   "bauernfeindBirdSpecimensLeverian2004",
+   "berlepschStudienUberWenig1905",
+   "elzenTypeSpecimensThamnophilidae2023",
+   "hellmayrUberNeueUnd1904",
+   "keveImNaturhistorischenMuseum1947",
+   "keveVogelAlmasyAusbeute19011966",
+   "kraljSamplesBirdsCroatia1996",
+   "medwayExtantTypesNew1976",
+   "medwayReviewOriginEuropean2010",
+   "mlikovskyNomenclaturalTaxonomicStatus2011",
+   "mlikovskyTypeSpecimensType2016",
+   "olsonIdentityFabricatedBird1989",
+   "palandacicAnnotatedCatalogueSelected2024",
+   "pelzelnBirdsImperialCollection",
+   "pelzelnBirdsImperialCollectiona",
+   "pelzelnTypenOrnithologischenSammlung",
+   "pelzelnTypenOrnithologischenSammlung1886",
+   "pelzelnTypenOrnithologischenSammlung1888",
+   "pelzelnTypenOrnithologischenSammlunga",
+   "quaisserSystematicNotesAsian2006",
+   "rokitanskyOrnithologischeErgebnisseZweier1971",
+   "rossnerVogelsammlungOsterreichischenKleinasienexpedition1935",
+   "sassiWertvollstenStuckeWiener1939",
+   "schifterBirdSpecimensNatural1999",
+   "schifterJohannNattererBrasilien",
+   "schifterTypeSpecimensBirds2007",
+   "schifterTypenGuidoSchiebel1986",
+   "schifterTypenTheodorHeuglin1991",
+   "schifterVogelAusNachlass",
+   "tschusiTypenMeinerSammlung1906",
+   "vlietOriginsIdentificationType2019"
+  ],
+  "publication_count": 31
+ },
+ {
+  "id": "hlmd-darmstadt",
+  "type": "institution",
+  "name": "Hessisches Landesmuseum",
+  "abbreviation": "HLMD",
+  "city": "Darmstadt",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Darmstadt C",
+   "HLMD"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mwnh-wiesbaden",
+  "type": "institution",
+  "name": "Hessisches Landesmuseum für Kunst und Natur",
+  "abbreviation": "MWNH",
+  "city": "Wiesbaden",
+  "country": "Germany",
+  "verbatim_tags": [
+   "MWNH",
+   "MWNH (Wiesbaden)",
+   "Wiesbaden B"
+  ],
+  "publications": [
+   "geller-grimmCatalogBirdSpecimens2013",
+   "hoffmannCatalogBirdSpecimens2013",
+   "lampeKatalogVogelSammlungNaturhistorischen1904",
+   "lampeKatalogVogelSammlungNaturhistorischen1905",
+   "lampeKatalogVogelSammlungNaturhistorischen1906",
+   "lampeKatalogVogelSammlungNaturhistorischen1909",
+   "lampeKatalogVogelSammlungNaturhistorischen1912"
+  ],
+  "publication_count": 7
+ },
+ {
+  "id": "hunhm-sapporo",
+  "type": "institution",
+  "name": "HokkaidÅ Daigaku SÅgÅ Hakubutsukan [Hokkaido University Museum]",
+  "abbreviation": "HUNHM",
+  "city": "Sapporo",
+  "country": "Japan",
+  "verbatim_tags": [
+   "HUNHM",
+   "HUNHM (Sapporo)"
+  ],
+  "publications": [
+   "katoBurakisutonHyohonshiHistory2012",
+   "katoCatalogueBirdSpecimens2018",
+   "katoCatalogueBirdSpecimens2018a",
+   "katoNotesReexaminationType2014",
+   "katoNotesReexaminationType2014a"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "eicml-london",
+  "type": "institution",
+  "name": "Honourable East India Company’s Museum",
+  "abbreviation": "EICML",
+  "city": "London",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "EICML"
+  ],
+  "publications": [
+   "horsfieldCatalogueBirdsMuseum1858",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "hpmz-zagreb",
+  "type": "institution",
+  "name": "Hrvatski prirodoslovni muzej [Croatian Natural History Museum]",
+  "abbreviation": "HPMZ",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "verbatim_tags": [
+   "HPMZ"
+  ],
+  "publications": [
+   "grbacKatalogZbirkePtica2008",
+   "rosslerPopisPticaHrvatske1902"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "rcse-london",
+  "type": "institution",
+  "name": "Hunterian Museum, Royal College of Surgeons",
+  "abbreviation": "RCSE",
+  "city": "London",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "RCSE"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mnhas-sanda",
+  "type": "institution",
+  "name": "HyÅgo Kenritsu Hito to Shizen no Hakubutsukan [Museum of Nature and Human Activities]",
+  "abbreviation": "MNHAS",
+  "city": "Sanda",
+  "country": "Japan",
+  "verbatim_tags": [
+   "MNHAS"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "ifan-dakar",
+  "type": "institution",
+  "name": "Institut fundamental d’Afrique noire (in 1936-1966: Institut français d’Afrique noire)",
+  "abbreviation": "IFAN",
+  "city": "Dakar",
+  "country": "Senegal",
+  "verbatim_tags": [
+   "IFAN"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2025"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mecn-quito",
+  "type": "institution",
+  "name": "Instituto Nacional de Biodiversidad",
+  "abbreviation": "MECN",
+  "city": "Quito",
+  "country": "Ecuador",
+  "verbatim_tags": [
+   "MECN"
+  ],
+  "publications": [
+   "garzonRiquezaEstadoSalud2022"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "isced-lubango",
+  "type": "institution",
+  "name": "Instituto Superior de Ciências da Educação [Higher Institute of Educational Sciences]",
+  "abbreviation": "ISCED",
+  "city": "Lubango",
+  "country": "Angola",
+  "verbatim_tags": [
+   "(ISCED) Lubango",
+   "ISCED"
+  ],
+  "publications": [
+   "deanTypeSpecimensBird2012",
+   "deanTypeSpecimensBird2012a",
+   "millsCataloguingLubangoBird2010"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "icn-bogota",
+  "type": "institution",
+  "name": "Instituto de Ciencias Naturales, Universidad Nacional de Colombia",
+  "abbreviation": "ICN",
+  "city": "Bogotá",
+  "country": "Colombia",
+  "verbatim_tags": [
+   "ICN",
+   "ICN (Bogota)"
+  ],
+  "publications": [
+   "stilesColeccionOrnitologica2007",
+   "stilesColeccionOrnitologica2007a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "ies-havana",
+  "type": "institution",
+  "name": "Instituto de Ecología y Sistemática, Academia de Ciencias de Cuba",
+  "abbreviation": "IES",
+  "city": "Havana",
+  "country": "Cuba",
+  "verbatim_tags": [
+   "IES",
+   "IES (La Habana)"
+  ],
+  "publications": [
+   "aguileraTiposColeccionAves2000",
+   "garridoTiposColeccionAves2000"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "iavh-villa-de-leyva",
+  "type": "institution",
+  "name": "Instituto de Investigación de Recursos Biológicos Alexander von Humboldt",
+  "abbreviation": "IAvH",
+  "city": "Villa de Leyva",
+  "country": "Colombia",
+  "verbatim_tags": [
+   "IAvH",
+   "IAvH-A (Villa de Leyva)"
+  ],
+  "publications": [
+   "cordoba-cordobaIllustratedOnlineCatalog2018",
+   "cordoba-cordobaIllustratedOnlineCatalog2018a",
+   "cuervoUnnoticedAnomalyHolotype2022"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "sam-cape-town",
+  "type": "institution",
+  "name": "Iziko South African Museum (formerly. South African Museum)",
+  "abbreviation": "SAM",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "verbatim_tags": [
+   "SAM",
+   "SAM (Cape Town)"
+  ],
+  "publications": [
+   "brookeAnnotatedCatalogueAves1993",
+   "brookeAnnotatedCatalogueAves1993a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "kie-yerevan",
+  "type": "institution",
+  "name": "Kenġanabanowt’yan Institows [Zoological Institute], National Academy of Sciences of Armenia",
+  "abbreviation": "KIE",
+  "city": "Yerevan",
+  "country": "Armenia",
+  "verbatim_tags": [
+   "KIE"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "nsmt-tokyo",
+  "type": "institution",
+  "name": "Kokuritsu Kagaku Hakubutsukan [National Museum of Nature and Science]",
+  "abbreviation": "NSMT",
+  "city": "Tokyo",
+  "country": "Japan",
+  "verbatim_tags": [
+   "NSMT"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023",
+   "moriokaTypesJapaneseBirds2005"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "kmma-tervuren",
+  "type": "institution",
+  "name": "Koninklijk Museum voor Midden-Afrika – Musée Royal de l’Afrique Centrale",
+  "abbreviation": "KMMA",
+  "city": "Tervuren",
+  "country": "Belgium",
+  "verbatim_tags": [
+   "KMMA (also: RMCA)",
+   "RMCA (Tervuren)",
+   "Tervuren A"
+  ],
+  "publications": [
+   "louetteTypeSpecimensBirds2002",
+   "louetteTypeSpecimensBirds2010",
+   "louetteTypeSpecimensRoyal2002",
+   "louetteTypeSpecimensRoyal2010"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "kumk-kyoto",
+  "type": "institution",
+  "name": "KyÅtodaigaku SÅgÅ Hakubutsukan [Kyoto University Museum],",
+  "abbreviation": "KUMK",
+  "city": "Kyoto",
+  "country": "Japan",
+  "verbatim_tags": [
+   "KUMK"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mzba-barcelona",
+  "type": "institution",
+  "name": "Laboratori de Natura, Museu de Cièmcias Naturals de Barcelona [Nature Laboratory, Natural History Museum of Barcelona]",
+  "abbreviation": "MZBA",
+  "city": "Barcelona",
+  "country": "Spain",
+  "verbatim_tags": [
+   "Barcelona C",
+   "MZBA"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "lnmo-oldenburg",
+  "type": "institution",
+  "name": "Landesmuseum Natur und Mensch Oldenburg",
+  "abbreviation": "LNMO",
+  "city": "Oldenburg",
+  "country": "Germany",
+  "verbatim_tags": [
+   "LNMO",
+   "Oldenburg C"
+  ],
+  "publications": [
+   "fuhrmannVogel2011"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "bma-abbeville",
+  "type": "institution",
+  "name": "Le Beffroi Musée Boucher de Perthes – Manessier",
+  "abbreviation": "BMA",
+  "city": "Abbeville",
+  "country": "France",
+  "verbatim_tags": [
+   "Abbeville",
+   "Abbeville C",
+   "BMA"
+  ],
+  "publications": [
+   "absalonListTypeSpecimens2023",
+   "gouraudExtinctEndangeredEE2024",
+   "gouraudListTypeSpecimens2023"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "lkcnhm-singapore",
+  "type": "institution",
+  "name": "Lee Kong Chian Natural History Museum, National University of Singapore",
+  "abbreviation": "LKCNHM",
+  "city": "Singapore",
+  "country": "Singapore",
+  "verbatim_tags": [
+   "Raffles Museum"
+  ],
+  "publications": [
+   "gibson-hillBirdTypeSpecimens1948"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "leedm-leeds",
+  "type": "institution",
+  "name": "Leeds Museums and Galleries",
+  "abbreviation": "LEEDM",
+  "city": "Leeds",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "LEEDM",
+   "Leeds D"
+  ],
+  "publications": [
+   "norrisRoundellCollectionHistoric1998"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "lml-livingstone",
+  "type": "institution",
+  "name": "Livingstone Museum",
+  "abbreviation": "LML",
+  "city": "Livingstone",
+  "country": "Zambia",
+  "verbatim_tags": [
+   "LML",
+   "LML (Livingstone)"
+  ],
+  "publications": [
+   "dowsettZoologicalHolotypesLivingstone1975",
+   "dowsettZoologicalHolotypesLivingstone1975a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "lmtu-tartu",
+  "type": "institution",
+  "name": "Loodusmuuseum, Tartu Ülikool [Museum of Natural History, Tartu University]",
+  "abbreviation": "LMTU",
+  "city": "Tartu",
+  "country": "Estonia",
+  "verbatim_tags": [
+   "LMTU",
+   "Tartu C"
+  ],
+  "publications": [
+   "artemevaMaterialyPoZeltym2016",
+   "ilissonCollectionBirdSkins1992",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "zmuh-helsinki",
+  "type": "institution",
+  "name": "Luonnontieteellinen keskusmuseo [Finnish Museum of Natural History]",
+  "abbreviation": "ZMUH",
+  "city": "Helsinki",
+  "country": "Finland",
+  "verbatim_tags": [
+   "Helsinki C",
+   "ZMUH"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "irho-budapest",
+  "type": "institution",
+  "name": "Magyar Királyi Madártani Intézet [Royal Hungarian Institute of Ornithology; Institut Regii Hungarici Ornithologici]",
+  "abbreviation": "IRHO",
+  "city": "Budapest",
+  "country": "Hungary",
+  "verbatim_tags": [
+   "IRHO"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "hnhm-budapest",
+  "type": "institution",
+  "name": "Magyar Nemzeti Muzeum [Hungarian Natural History Museum]",
+  "abbreviation": "HNHM",
+  "city": "Budapest",
+  "country": "Hungary",
+  "verbatim_tags": [
+   "HNHM",
+   "HNHM (Budapest)"
+  ],
+  "publications": [
+   "fuiszHiddenTreasuresReorganization2010",
+   "fuiszHiddenTreasuresReorganization2010a",
+   "horvathDestroyedBirdTypes1970"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "manch-manchester",
+  "type": "institution",
+  "name": "Manchester Museum, University of Manchester",
+  "abbreviation": "MANCH",
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "MANCH",
+   "Manchester C"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mvm-melbourne",
+  "type": "institution",
+  "name": "Melbourne Museum, Victoria Museums",
+  "abbreviation": "MVM",
+  "city": "Melbourne",
+  "country": "Australia",
+  "verbatim_tags": [
+   "MVM (Victoria)"
+  ],
+  "publications": [
+   "christidisNeotypeHoodedPlover1998",
+   "davisStatusBarkingOwl2022"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mlz-los-angeles",
+  "type": "institution",
+  "name": "Moore Laboratory of Zoology, Occidental College",
+  "abbreviation": "MLZ",
+  "city": "Los Angeles",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "MLZ",
+   "MLZ (Los Angeles)"
+  ],
+  "publications": [
+   "hardyCriticalListType1975",
+   "webberCriticalListType1975"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mzmb-brno",
+  "type": "institution",
+  "name": "Moravské zemské muzeum [Moravian Museum]",
+  "abbreviation": "MZMB",
+  "city": "Brno",
+  "country": "Czechia",
+  "verbatim_tags": [
+   "Brno C",
+   "MZMB",
+   "MZMB (Brno)"
+  ],
+  "publications": [
+   "cenekPtaciVeSbirkach2006",
+   "fricCatalogSaugethiereUnd",
+   "fricSeznamSsavectvaPtactva",
+   "hanakAbnormalneZbarveniPtaci1997",
+   "hanakCizokrajniPtaciVe1991",
+   "hanakKatalogCizokrajnychPtaku2003",
+   "husekOrnitologickaSbirkaKarla2021",
+   "jandaVymreleKritickyOhrozene2001",
+   "mlikovskyBirdsTranscarpathiaUkraine",
+   "mlikovskyElseHoffsFl",
+   "mlikovskyEmilHolubsCollection",
+   "mlikovskyExtinctNearlyExtinct",
+   "mlikovskyJaroslavBohacsBorneo",
+   "mlikovskyJosefMusileksCollection2006",
+   "mlikovskyJosefMusileksCollection2006a",
+   "mlikovskyNomenclaturalTaxonomicStatus2011",
+   "mlikovskyOrnithologicalResultsCzechoslovakIranian2007",
+   "mlikovskyPticeSrbijeZbirkama2025",
+   "mlikovskySpecimensExtinctEndangered2010",
+   "mlikovskyTypeSpecimensBirds2009",
+   "mlikovskyTypeSpecimensRecent",
+   "mlikovskyTypesBirdsCollections2005",
+   "schaeckOrnithologischeSammlungIm1891",
+   "sitkoFaunistickyVyznamnePrirustky1986",
+   "sutorovaTypeSpecimensBirds2009"
+  ],
+  "publication_count": 25
+ },
+ {
+  "id": "macn-buenos-aires",
+  "type": "institution",
+  "name": "Museo Argentino de Ciencias Naturales",
+  "abbreviation": "MACN",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "verbatim_tags": [
+   "MACN",
+   "MACN (Argentina)"
+  ],
+  "publications": [
+   "camperiTiposAvesQue1999",
+   "navasTiposAvesQue1999"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mcr-randazzo",
+  "type": "institution",
+  "name": "Museo Civico di Scienze Naturali “A. Priolo” [A. Priolo Civic Museum of Natural History]",
+  "abbreviation": "MCR",
+  "city": "Randazzo",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MCR",
+   "Randazzo C"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mcsnm-milan",
+  "type": "institution",
+  "name": "Museo Civico di Storia Naturale di Milano",
+  "abbreviation": "MCSNM",
+  "city": "Milan",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MCSN (Milan)",
+   "MCSNM",
+   "MSNM (Milan)"
+  ],
+  "publications": [
+   "budenBirdsCollectedOtto2010",
+   "leonardiCollezioniMuseoCivico1995",
+   "violaniCenniStoriciSu1985",
+   "violaniUccelliEstintiRari1984"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "msng-genoa",
+  "type": "institution",
+  "name": "Museo Civico di Storia Naturale ‘Giacomo Doria’ [Giacomo Doria Civic Natural History Museum]",
+  "abbreviation": "MSNG",
+  "city": "Genoa",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MSNG",
+   "MSNG (Genoa)"
+  ],
+  "publications": [
+   "aimassiHemixusSumatranusWardlaw2018",
+   "arboccoCatalogoTipiDi1979",
+   "arboccoCatalogoTipiDi1979a",
+   "arboccoCatalogueBirdTypes1986",
+   "arboccoCatalogueBirdTypes1987",
+   "borgoColumbidaeMuseoCivico2009",
+   "borgoLaridaeMuseoCivico1995",
+   "borgoLaridaeMuseoCivico2000",
+   "borgoLaridaeMuseoCivico2016",
+   "doriaTypeSpecimensBirds2024",
+   "mcallanTransferCollectionBird2005",
+   "violaniUccelliEstintiRari1984"
+  ],
+  "publication_count": 12
+ },
+ {
+  "id": "mncn-madrid",
+  "type": "institution",
+  "name": "Museo Nacional de Ciencias Naturales [National Museum of Natural History]",
+  "abbreviation": "MNCN",
+  "city": "Madrid",
+  "country": "Spain",
+  "verbatim_tags": [
+   "MNCN",
+   "MNCN (Madrid)",
+   "Madrid C"
+  ],
+  "publications": [
+   "barreiroCatalogoColeccionesAves1998",
+   "barreiroColeccionesAvesMamiferos1997",
+   "carrasquillaTresHolotiposOlvivados1998",
+   "hernandezTresHolotiposOlvivados1998",
+   "sainz-borgoColeccionAvesMamiferos2017"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "mncr-san-jose",
+  "type": "institution",
+  "name": "Museo Nacional de Costa Rica",
+  "abbreviation": "MNCR",
+  "city": "San José",
+  "country": "Costa Rica",
+  "verbatim_tags": [
+   "MNCR"
+  ],
+  "publications": [
+   "mayColeccionesAvesCosta2016"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mnhcl-santiago-de-chile",
+  "type": "institution",
+  "name": "Museo Nacional de Historia Natural",
+  "abbreviation": "MNHCL",
+  "city": "Santiago de Chile",
+  "country": "Chile",
+  "verbatim_tags": [
+   "MNHCL"
+  ],
+  "publications": [
+   "gigouxTiposAvesConservados1930",
+   "gigouxTiposAvesConservados1932",
+   "torres-muraAvesAmenazadasExtincion1991",
+   "torres-muraTiposAvesMuseo1989"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "mnhncl-santiago",
+  "type": "institution",
+  "name": "Museo Nacional de Historia Natural",
+  "abbreviation": "MNHNCL",
+  "city": "Santiago",
+  "country": "Chile",
+  "verbatim_tags": [
+   "MNHNCL (Santiago)"
+  ],
+  "publications": [
+   "gigouxTiposAvesConservados1930",
+   "kirwanCorrectAuthorshipType",
+   "lemusTiposAvesMuseo1989"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "mnhncu-havana",
+  "type": "institution",
+  "name": "Museo Nacional de Historia Natural Cubana",
+  "abbreviation": "MNHNCu",
+  "city": "Havana",
+  "country": "Cuba",
+  "verbatim_tags": [
+   "MNHNC (La Habana)"
+  ],
+  "publications": [
+   "herrera-uriaTypeSpecimensHoused2015"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mrt-terrasini",
+  "type": "institution",
+  "name": "Museo Regional di Storia Naturale e Mostra Permanente del Carretto Siciliano [Regional Museum of Natural History and Permanent Exhibition of Sicilian Carts]",
+  "abbreviation": "MRT",
+  "city": "Terrasini",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MRT",
+   "Terrasini B"
+  ],
+  "publications": [
+   "aimassiLectotipiParalectotipiDesignati2017",
+   "aimassiTypeSpecimensBirds2020",
+   "arnoneTipiRaccolteMuso1990",
+   "bowenTypeLocalityCraveris2013",
+   "diCatalogoCollezioneOrnitologica1989",
+   "elterCollezioneOrnitologicaMuseo1986",
+   "ghiraldiExtinctEndangeredEE2019",
+   "orlandoDesignazioneDiLectotypi",
+   "orlandoRaccoltaOrnitologicaTrischitta",
+   "salvadoriNotizieStoricheIntorno1915",
+   "violaniLUriaDiCraveri1990"
+  ],
+  "publication_count": 11
+ },
+ {
+  "id": "mrsn-turin",
+  "type": "institution",
+  "name": "Museo Regionale di Scienze Naturali [Regional Museum of Natural History]",
+  "abbreviation": "MRSN",
+  "city": "Turin",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MRSN"
+  ],
+  "publications": [
+   "aimassiLectotipiParalectotipiDesignati2017",
+   "aimassiTypeSpecimensBirds2020",
+   "bowenTypeLocalityCraveris2013",
+   "elterCollezioneOrnitologicaMuseo1986",
+   "ghiraldiExtinctEndangeredEE2019",
+   "salvadoriNotizieStoricheIntorno1915",
+   "violaniLUriaDiCraveri1990"
+  ],
+  "publication_count": 7
+ },
+ {
+  "id": "mcnz-zaragoza",
+  "type": "institution",
+  "name": "Museo de Ciencias Naturales de Zaragoza [Natural History Museum of Zaragoza]",
+  "abbreviation": "MCNZ",
+  "city": "Zaragoza",
+  "country": "Spain",
+  "verbatim_tags": [
+   "MCNZ",
+   "Zaragoza C"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mnhl-lima",
+  "type": "institution",
+  "name": "Museo de Historia Natural “Javier Prado”, Universidad Nacional Mayor de San Marcos",
+  "abbreviation": "MNHL",
+  "city": "Lima",
+  "country": "Peru",
+  "verbatim_tags": [
+   "MHN (Lima)"
+  ],
+  "publications": [
+   "plengeTypeSpecimensBirds1979a"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "infs-bologna",
+  "type": "institution",
+  "name": "Museo dell’Istituto nazionale per la fauna selvatica [Museum of the National Wildlife Institute]",
+  "abbreviation": "INFS",
+  "city": "Bologna",
+  "country": "Italy",
+  "verbatim_tags": [
+   "Bologna D"
+  ],
+  "publications": [
+   "aimassiHemixusSumatranusWardlaw2018",
+   "arboccoCatalogoTipiDi1979",
+   "arboccoCatalogueBirdTypes1986",
+   "borgoColumbidaeMuseoCivico2009",
+   "borgoLaridaeMuseoCivico1995",
+   "borgoLaridaeMuseoCivico2000",
+   "borgoLaridaeMuseoCivico2016",
+   "giglioliCollezioneCentraleAnimali1909",
+   "mcallanTransferCollectionBird2005",
+   "poggesiCataloghiMuseoZoologico1990",
+   "violaniCenniStoriciSu1985",
+   "violaniUccelliEstintiRari1984"
+  ],
+  "publication_count": 12
+ },
+ {
+  "id": "msntp-pisa",
+  "type": "institution",
+  "name": "Museo di Storia Naturale e del Territorio [Museum of Natural History and of the Territory]",
+  "abbreviation": "MSNTP",
+  "city": "Pisa",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MSNTP",
+   "Pisa C"
+  ],
+  "publications": [
+   "farinaZoologicalSpecimensFrancoTuscan2021",
+   "mlikovskySystematicCatalogueBirds2023",
+   "vanniBirdsCollectedOrazio2020",
+   "vanniItalianPhysicianCongo2025"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "mzuf-florence",
+  "type": "institution",
+  "name": "Museo di Storia Naturale, Università di Firenze [Museum of Natural History, University of Firenze]",
+  "abbreviation": "MZUF",
+  "city": "Florence",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MZUF"
+  ],
+  "publications": [
+   "giglioliCollezioneCentraleAnimali1909",
+   "poggesiCataloghiMuseoZoologico1990",
+   "violaniUccelliEstintiRari1984"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "mzut-turin",
+  "type": "institution",
+  "name": "Museo di Zoologia dell'Università de Torino",
+  "abbreviation": "MZUT",
+  "city": "Turin",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MZUT (Turin)"
+  ],
+  "publications": [
+   "aimassiCorrectSourcePrecise2023",
+   "aimassiTypeSpecimensBirds2020a",
+   "elter1986",
+   "ghiraldiLectotipiParalectotipiDesignati2017"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "mmpd-ponta-delgada",
+  "type": "institution",
+  "name": "Museu Municipal de Ponta Delgada [Municipal Museum of Ponta Delgada]",
+  "abbreviation": "MMPD",
+  "city": "Ponta Delgada",
+  "country": "Portugal",
+  "verbatim_tags": [
+   "MMPD",
+   "Ponta Delgada C"
+  ],
+  "publications": [
+   "gomesNomenclaturaConservacaoUm2015"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "muhnac-lisbon",
+  "type": "institution",
+  "name": "Museu Nacional de História Natural e da Ciência [National Museum of Natural History and Science]",
+  "abbreviation": "MUHNAC",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "verbatim_tags": [
+   "MUHNAC"
+  ],
+  "publications": [
+   "gomesNomenclaturaConservacaoUm2015",
+   "santosTaxonomicGeographicTemporal2025"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mnrj-rio-de-janeiro",
+  "type": "institution",
+  "name": "Museu Nacional, Universidade Federal do Rio de Janeiro",
+  "abbreviation": "MNRJ",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "verbatim_tags": [
+   "MNRJ (Rio de Janeiro)"
+  ],
+  "publications": [
+   "gonzagaCatalogoDosTipos1989",
+   "gonzagaCatalogoDosTipos1989a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mhnuc-coimbra",
+  "type": "institution",
+  "name": "Museu de História Natural da Universidade de Coimbra [Natural History Museum of the University of Coimbra]",
+  "abbreviation": "MHNUC",
+  "city": "Coimbra",
+  "country": "Portugal",
+  "verbatim_tags": [
+   "Coimbra C",
+   "MHNUC"
+  ],
+  "publications": [
+   "carreiraCatalogoAvesRegiao1984",
+   "carreiraCatalogoAvesRegiao1986",
+   "carreiraCatalogoAvesRegiao1990",
+   "giraldesQuestoesPhilosophiaNatural1879",
+   "gomesNomenclaturaConservacaoUm2015",
+   "santosTaxonomicGeographicTemporal2025"
+  ],
+  "publication_count": 6
+ },
+ {
+  "id": "mhnc-up-porto",
+  "type": "institution",
+  "name": "Museu de História Natural e de Ciência da Universidade do Porto [Museum of Natural History and Science of the University of Porto]",
+  "abbreviation": "MHNC-UP",
+  "city": "Porto",
+  "country": "Portugal",
+  "verbatim_tags": [
+   "MHNC-UP",
+   "Porto C"
+  ],
+  "publications": [
+   "gomesNomenclaturaConservacaoUm2015",
+   "santosTaxonomicGeographicTemporal2025"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mzusp-sao-paulo",
+  "type": "institution",
+  "name": "Museu de Zoologia, Universidade de São Paulo",
+  "abbreviation": "MZUSP",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "verbatim_tags": [
+   "MZUSP"
+  ],
+  "publications": [
+   "pintoSobreColecaoCarlos1953"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "md-dundo",
+  "type": "institution",
+  "name": "Museu do Dundo",
+  "abbreviation": "MD",
+  "city": "Dundo",
+  "country": "Angola",
+  "verbatim_tags": [
+   "Dundo"
+  ],
+  "publications": [
+   "pintoAvesColeccaoMuseu1973a"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "md-luanda",
+  "type": "institution",
+  "name": "Museu do Dundo [Museum of Dundo]",
+  "abbreviation": "MD",
+  "city": "Luanda",
+  "country": "Angola",
+  "verbatim_tags": [
+   "MD"
+  ],
+  "publications": [
+   "pintoAvesColeccaoMuseu1973"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mhh-halberstadt",
+  "type": "institution",
+  "name": "Museum Heineanum",
+  "abbreviation": "MHH",
+  "city": "Halberstadt",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Halberstadt A",
+   "MHH",
+   "MHH (Halberstadt)"
+  ],
+  "publications": [
+   "boetticherVerzeichnisTypenVogelsammlung1941",
+   "cabanisMuseumHeineanumVol",
+   "cabanisMuseumHeineanumVol1853",
+   "cabanisMuseumHeineanumVola",
+   "frahnertNomenclaturalNotesNeotropical2009",
+   "heineNomenclatorMuseiHeineani1890",
+   "kirwanNomenclaturalCorrectionsNeotype2014",
+   "nicolaiTypusexemplareImMuseum2006",
+   "quaisserTypusexemplareVogelsammlungIm2006",
+   "reichenowNomenclatorMuseiHeineani1882"
+  ],
+  "publication_count": 10
+ },
+ {
+  "id": "mzb-bogor",
+  "type": "institution",
+  "name": "Museum Zoologi Bogor [Museum Zoologicum Bogoriense, Bogor Zoology Museum]",
+  "abbreviation": "MZB",
+  "city": "Bogor",
+  "country": "Indonesia",
+  "verbatim_tags": [
+   "MZB",
+   "MZB (Bogor)"
+  ],
+  "publications": [
+   "janyNeueVogelFormenNordMolukken1955",
+   "mlikovskySystematicCatalogueBirds2023",
+   "siebersNeueVogelSumba1928",
+   "sudaryantiTypesHoogerwerfsNew2006",
+   "sudaryantiTypesHoogerwerfsNew2006a"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "adbm-beijing",
+  "type": "institution",
+  "name": "Museum at the Jesuit College at Nantang (Cathedral of the Immaculate Conception)",
+  "abbreviation": "ADBM",
+  "city": "Beijing",
+  "country": "China",
+  "verbatim_tags": [
+   "ADBM"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "zmb-berlin",
+  "type": "institution",
+  "name": "Museum für Naturkunde",
+  "abbreviation": "ZMB",
+  "city": "Berlin",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Berlin A",
+   "ZMB",
+   "ZMB (Berlin)"
+  ],
+  "publications": [
+   "absBirdCollectionsMuseum2010",
+   "absBirdCollectionsMuseum2010a",
+   "berlepschStudienUberWenig1905",
+   "blanfordNotesSpecimensBerlin1874",
+   "cleerePennantwingedNightjarMacrodipteryx2003",
+   "cleerePennantwingedNightjarMacrodipteryx2003a",
+   "cleereTypesCaprimulgiformBirds2005",
+   "cleereTypesCaprimulgiformBirds2005a",
+   "deanAvianTypeSpecimens2007",
+   "deanAvifaunalSpecimensNorthern2007",
+   "dowsettTaxonomicRevisionArnots2024",
+   "frahnertJuanCristobalGundlachs2015",
+   "frahnertJuanCristobalGundlachs2015a",
+   "frahnertNomenclaturalNotesNeotropical2009",
+   "frahnertOverlookedCollectionLudwig2008",
+   "frahnertTypeSpecimensBirds2021",
+   "frahnertTypeSpecimensBirds2021a",
+   "frahnertTypeSpecimensType",
+   "frahnertTypeSpecimensType2009a",
+   "frahnertTypeSpecimensType2009b",
+   "frahnertTypeSpecimensType2011",
+   "frahnertTypeSpecimensType2017",
+   "frahnertTypeSpecimensType2023",
+   "frahnertTypeSpecimensType2023a",
+   "gouraudReviewTypeSeries2016",
+   "hellmayrStudienUberWenig1905",
+   "hellmayrUberNeueUnd1904",
+   "mauersberger18SepNotizen1987",
+   "mauersberger5AugNotizen1985",
+   "mauersberger8AugNotizen1986",
+   "mauersbergerNotizenUberTypen1987",
+   "mauersbergerUberLichtensteinscheVogelnamen1988",
+   "mauersbergerUberLichtensteinscheVogelnamen1988a",
+   "mlikovskyJaroslavBohacsBorneo",
+   "mlikovskyNomenclaturalNotesNeotropical",
+   "mlikovskyTypeSpecimensAnthus2013",
+   "mlikovskyTypeSpecimensType",
+   "mlikovskyTypeSpecimensType2011",
+   "mlikovskyTypeSpecimensType2016",
+   "mlikovskyTypeSpecimensType2017",
+   "mlikovskyTypeSpecimensType2026",
+   "mlikovskyTypeSpecimensTypea",
+   "mlikovskyTypeSpecimensTypeb",
+   "neumannAlbertUndLouis1990",
+   "neumannNotizenUberTypen1985",
+   "neumannNotizenUberTypen1986",
+   "paynePopulationsTypeSpecimens1987",
+   "righterAdventurousTravelsThree2017",
+   "steinheimerAvianTypeSpecimens2007",
+   "steinheimerNomenclatureEduardRuppells",
+   "steinheimerTypeSpecimensCorvidae2009",
+   "steinheimerTypeSpecimensCorvidae2009a",
+   "steinheimerTypeSpecimensParadisaeidae2005",
+   "stresemannAusgestorbeneUndAussterbende",
+   "stresemannBrasilianischenVogelsammlungenGrafen1950",
+   "stresemannBrasilianischenVogelsammlungenGrafen1950a",
+   "stresemannBrasilianischenVogelsammlungenGrafen1951",
+   "stresemannUberLudwigKrebs",
+   "wellerTaxonomicIdentityTrochilus2005"
+  ],
+  "publication_count": 59
+ },
+ {
+  "id": "mcz-cambridge",
+  "type": "institution",
+  "name": "Museum of Comparative Zoology, Harvard University",
+  "abbreviation": "MCZ",
+  "city": "Cambridge",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "MCZ",
+   "MCZ (Cambridge"
+  ],
+  "publications": [
+   "bangsTypesBirdsMuseum1930",
+   "bangsTypesBirdsMuseum1930a",
+   "dickinsonTypesDoiseauxRapportes2000",
+   "hellmayrSupposedTypesLafresnaye1906",
+   "petersFirstSupplementList1943",
+   "petersFirstSupplementList1943a"
+  ],
+  "publication_count": 6
+ },
+ {
+  "id": "mnhat-trondheim",
+  "type": "institution",
+  "name": "Museum of Natural History & Archaeology, Norwegian University of Science and Technology",
+  "abbreviation": "MNHAT",
+  "city": "Trondheim",
+  "country": "Norway",
+  "verbatim_tags": [
+   "MNHAT",
+   "Trondheim C"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "lsumz-baton-rouge",
+  "type": "institution",
+  "name": "Museum of Natural Science, Louisiana State University",
+  "abbreviation": "LSUMZ",
+  "city": "Baton Rouge",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "LSUMZ",
+   "LSUMZ (Baton Rouge)"
+  ],
+  "publications": [
+   "cardiffTypeSpecimensBirds1994",
+   "remsenTypeSpecimensBirds1994"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "nmnz-wellington",
+  "type": "institution",
+  "name": "Museum of New Zealand Te Papa Tongarewa",
+  "abbreviation": "NMNZ",
+  "city": "Wellington",
+  "country": "New Zealand",
+  "verbatim_tags": [
+   "NMNZ",
+   "NMNZ (Wellington)"
+  ],
+  "publications": [
+   "bartleCatalogueTypeSpecimens2008",
+   "bartleHistoryWalterBullers2009",
+   "shepherdSelectionNeotypeApteryx2009",
+   "tennysonCatalogueTypeSpecimens2008",
+   "tennysonHistoryWalterBullers2009"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "ummz-ann-arbor",
+  "type": "institution",
+  "name": "Museum of Zoology, University of Michigan",
+  "abbreviation": "UMMZ",
+  "city": "Ann Arbor",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "UMMZ",
+   "UMMZ (Ann Arbor)"
+  ],
+  "publications": [
+   "adamsTypesBirdsBealSteere1905",
+   "kennedySystematicNotesAsian2000",
+   "payneSystematicNotesAsian2001",
+   "payneSystematicNotesAsian2001a",
+   "storerTypeSpecimensBirds1988",
+   "storerTypeSpecimensBirds1988a"
+  ],
+  "publication_count": 6
+ },
+ {
+  "id": "fmp-chatham",
+  "type": "institution",
+  "name": "Museum of the Army Medical Department",
+  "abbreviation": "FMP",
+  "city": "Chatham",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "FMP"
+  ],
+  "publications": [
+   "burtonCatalogueCollectionMammalia1838",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mocv-la-chaize-le-vicomte",
+  "type": "institution",
+  "name": "Musée Ornithologique",
+  "abbreviation": "MOCV",
+  "city": "La Chaize-le-Vicomte",
+  "country": "France",
+  "verbatim_tags": [
+   "La Chaize-le-Vicomte C",
+   "MOCV"
+  ],
+  "publications": [
+   "gouraudEighteenthCenturyBird",
+   "gouraudExtinctEndangeredSpecies",
+   "gouraudListTypeSpecimens2015",
+   "voisinTypesTaxonsLarus1998"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "mhnf-friboug",
+  "type": "institution",
+  "name": "Musée d'histoire naturelle de Fribourg",
+  "abbreviation": "MHNF",
+  "city": "Friboug",
+  "country": "Switzerland",
+  "verbatim_tags": [
+   "Friboug D"
+  ],
+  "publications": [
+   "baudCatalogueTypesDmammiferes1977",
+   "baudOiseauxPhilippinesCollection1976",
+   "baudOiseauxPhilippinesCollection1978",
+   "ciboisTypeSpecimensBirds2016",
+   "weberOiseauxMammiferesCollection1985"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "zms-shanghai",
+  "type": "institution",
+  "name": "Musée de Zikawei",
+  "abbreviation": "ZMS",
+  "city": "Shanghai",
+  "country": "China",
+  "verbatim_tags": [
+   "Shanghai",
+   "ZMS"
+  ],
+  "publications": [
+   "courtoisHeudeMuseeZikawei1906",
+   "courtoisOiseauxMuseeZikawei1912",
+   "courtoisOiseauxMuseeZikawei1912a",
+   "courtoisOiseauxMuseeZikawei1914",
+   "courtoisOiseauxMuseeZikawei1914a",
+   "courtoisOiseauxMuseeZikawei1916",
+   "courtoisOiseauxMuseeZikawei1916a",
+   "courtoisOiseauxMuseeZikawei1918",
+   "courtoisOiseauxMuseeZikawei1918a",
+   "courtoisOiseauxMuseeZikawei1919",
+   "courtoisOiseauxMuseeZikawei1919a",
+   "courtoisOiseauxMuseeZikawei1927",
+   "courtoisOiseauxMuseeZikawei1927a"
+  ],
+  "publication_count": 13
+ },
+ {
+  "id": "mhnl-lille",
+  "type": "institution",
+  "name": "Musée d’Histoire Naturelle de Lille",
+  "abbreviation": "MHNL",
+  "city": "Lille",
+  "country": "France",
+  "verbatim_tags": [
+   "Lille C",
+   "MHNL"
+  ],
+  "publications": [
+   "deglandCatalogueMuseumDhistoire1860",
+   "maquet-deglandCatalogueRaisonneCollection1857",
+   "mlikovskySystematicCatalogueBirds2023",
+   "plengeTypeSpecimensBirds1979",
+   "ridouttColeccionOrnitologicaMuseo1941"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "mhnvm-metz",
+  "type": "institution",
+  "name": "Musée d’Histoire Naturelle de la Ville de Metz",
+  "abbreviation": "MHNVM",
+  "city": "Metz",
+  "country": "France",
+  "verbatim_tags": [
+   "MHNVM",
+   "Metz C"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mnhnl-luxembourg",
+  "type": "institution",
+  "name": "Musée national d’histoire naturelle de Luxembourg",
+  "abbreviation": "MNHNL",
+  "city": "Luxembourg",
+  "country": "Luxembourg",
+  "verbatim_tags": [
+   "Luxembourg D",
+   "MNHNL"
+  ],
+  "publications": [
+   "heidtCollectionsOrnithologiquesMusee2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mzs-strasbourg",
+  "type": "institution",
+  "name": "Musée zoologique de la ville de Strasbourg",
+  "abbreviation": "MZS",
+  "city": "Strasbourg",
+  "country": "France",
+  "verbatim_tags": [
+   "MZS",
+   "Strasbourg D"
+  ],
+  "publications": [
+   "koenigCatalogueCollectionOiseaux1994"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mlc-la-chatre",
+  "type": "institution",
+  "name": "Muséum La Châtre",
+  "abbreviation": "MLC",
+  "city": "La Châtre",
+  "country": "France",
+  "verbatim_tags": [
+   "MLC",
+   "MLC (La Châtre)"
+  ],
+  "publications": [
+   "gouraudEighteenthCenturyBird",
+   "gouraudEighteenthCenturyBird2014",
+   "gouraudExtinctEndangeredSpecies",
+   "gouraudListTypeSpecimens2015",
+   "gouraudListTypeSpecimens2015a"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "mnhn-paris",
+  "type": "institution",
+  "name": "Muséum National d’Histoire Naturelle",
+  "abbreviation": "MNHN",
+  "city": "Paris",
+  "country": "France",
+  "verbatim_tags": [
+   "MNHN",
+   "MNHN (Paris)",
+   "Paris A"
+  ],
+  "publications": [
+   "aretaWorldsLargestHummingbird2024",
+   "aretaWorldsLargestHummingbird2024a",
+   "berliozCatalogueSystematiqueTypes1929",
+   "berliozCatalogueSystematiqueTypes1929a",
+   "berliozNoticeSpecimensNaturalises1935",
+   "bruckertColecaoPassarosMuseum2003",
+   "buainainTaxonomicRevisionSaffronbilled2016",
+   "carlosCharadriiformesSternidaeDesignation2013",
+   "cleereCase3491Podargus2009",
+   "cleereListeTypesDoiseaux2006",
+   "cleereListeTypesDoiseaux2006a",
+   "dickinsonStudyDOrbignysVoyage2019",
+   "dickinsonTypesDoiseauxRapportes2000",
+   "doneganBogotaTypeSpecimens2015",
+   "elliottNomenclatureLophorinaAves2020",
+   "gouraudNoteNomenclatureMyrmothera2022",
+   "grangePicLilfordDendrocopos2020",
+   "grouwWhyBollesLaurel2024",
+   "guntherHistoryCollectionsContained1912",
+   "hartlaubIndexPucheransEtudes1855",
+   "hartlaubIndexPucheransEtudes1855a",
+   "hellmayrCriticalNotesTypes1913",
+   "hellmayrCriticalNotesTypes1914",
+   "hellmayrEtudeEspecesCritique1905",
+   "hellmayrEtudeEspecesCritique1906",
+   "hellmayrEtudeEspecesCritique1906a",
+   "hennacheTypesDoiseauxRapportes2000",
+   "jansenEarlyIndianBird2016",
+   "jansenEarlyIndianBird2016a",
+   "jansenReneMaugesOrnithological2017",
+   "jansenReneMaugesOrnithological2017a",
+   "jansenResolutionLongstandingIssues2014",
+   "jouaninCatalogueSystematiqueTypes1950",
+   "jouaninCatalogueSystematiqueTypes1950a",
+   "jouaninCatalogueSystematiqueTypes1951",
+   "jouaninInventaireOiseauxEteint1962",
+   "menegauxEtudeEspecesCritique",
+   "menegauxEtudeEspecesCritiquea",
+   "mouginListeTypesDoiseaux2002",
+   "pucheranEtudesTypesPeu",
+   "pucheranEtudesTypesPeu1849",
+   "pucheranEtudesTypesPeu1849a",
+   "pucheranEtudesTypesPeu1850",
+   "pucheranEtudesTypesPeu1850a",
+   "pucheranEtudesTypesPeu1850b",
+   "pucheranEtudesTypesPeu1850c",
+   "pucheranEtudesTypesPeu1850d",
+   "pucheranEtudesTypesPeu1851",
+   "pucheranEtudesTypesPeu1851a",
+   "pucheranEtudesTypesPeu1851b",
+   "pucheranEtudesTypesPeu1852",
+   "pucheranEtudesTypesPeu1852a",
+   "pucheranEtudesTypesPeu1853",
+   "pucheranEtudesTypesPeu1853a",
+   "pucheranEtudesTypesPeu1853b",
+   "pucheranEtudesTypesPeu1853c",
+   "pucheranEtudesTypesPeu1853d",
+   "pucheranEtudesTypesPeu1853e",
+   "pucheranEtudesTypesPeu1854",
+   "pucheranEtudesTypesPeua",
+   "pucheranMemoireSuType1855",
+   "pucheranObservationsTypesPeu1846",
+   "pucheranObservationsTypesPeu1846a",
+   "somadikartaListeTypesDoiseaux2002",
+   "somadikartaListeTypesDoiseaux2002a",
+   "voisinListTypeSpecimens",
+   "voisinListTypeSpecimens2008",
+   "voisinListTypeSpecimens2009",
+   "voisinListTypeSpecimens2009a",
+   "voisinListTypeSpecimens2010",
+   "voisinListTypeSpecimens2010a",
+   "voisinListTypeSpecimens2011",
+   "voisinListTypeSpecimens2011a",
+   "voisinListTypeSpecimens2012",
+   "voisinListTypeSpecimens2012a",
+   "voisinListTypeSpecimens2015",
+   "voisinListTypeSpecimens2015a",
+   "voisinListTypeSpecimens2015b",
+   "voisinListTypeSpecimens2015c",
+   "voisinListTypeSpecimens2016",
+   "voisinListTypeSpecimens2016a",
+   "voisinListTypeSpecimensa",
+   "voisinListTypeSpecimensb",
+   "voisinListTypeSpecimensc",
+   "voisinListTypeSpecimensd",
+   "voisinListeProvisoireTypes1992",
+   "voisinListeProvisoireTypes1992a",
+   "voisinListeSpecimensTypes1993",
+   "voisinListeSpecimensTypes1993a",
+   "voisinListeTypesDoiseaux",
+   "voisinListeTypesDoiseaux1995",
+   "voisinListeTypesDoiseaux1995a",
+   "voisinListeTypesDoiseaux1996",
+   "voisinListeTypesDoiseaux1996a",
+   "voisinListeTypesDoiseaux1997",
+   "voisinListeTypesDoiseaux1997a",
+   "voisinListeTypesDoiseaux1999",
+   "voisinListeTypesDoiseaux1999a",
+   "voisinListeTypesDoiseaux1999b",
+   "voisinListeTypesDoiseaux2001",
+   "voisinListeTypesDoiseaux2001a",
+   "voisinListeTypesDoiseaux2002",
+   "voisinListeTypesDoiseaux2002a",
+   "voisinListeTypesDoiseaux2002b",
+   "voisinListeTypesDoiseaux2004",
+   "voisinListeTypesDoiseaux2004a",
+   "voisinListeTypesDoiseaux2005",
+   "voisinListeTypesDoiseaux2005a",
+   "voisinListeTypesDoiseaux2008",
+   "voisinListeTypesDoiseaux2008a",
+   "voisinListeTypesDoiseaux2008b",
+   "voisinListeTypesDoiseauxa",
+   "voisinListeTypesDoiseauxb",
+   "voisinSystematicNotesAsian2002",
+   "voisinTypeLocalitySouth2013",
+   "voisinTypesTaxonsLarus1998a",
+   "vrezecBirdAvesDescriptions2023",
+   "vrezecBirdAvesDescriptions2023a"
+  ],
+  "publication_count": 118
+ },
+ {
+  "id": "mhngr-grenoble",
+  "type": "institution",
+  "name": "Muséum de Grenoble",
+  "abbreviation": "MHNGr",
+  "city": "Grenoble",
+  "country": "France",
+  "verbatim_tags": [
+   "Grenoble D",
+   "MHNGr"
+  ],
+  "publications": [
+   "langrandInventaireEtudeCollection",
+   "langrandInventaireEtudeCollection1985",
+   "langrandInventaireEtudeCollectiona"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "mhnca-caen",
+  "type": "institution",
+  "name": "Muséum d’Histoire Naturelle de Caen",
+  "abbreviation": "MHNCa",
+  "city": "Caen",
+  "country": "France",
+  "verbatim_tags": [
+   "Caen C",
+   "MHNCa"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mhng-geneva",
+  "type": "institution",
+  "name": "Muséum d’Histoire Naturelle de Genève",
+  "abbreviation": "MHNG",
+  "city": "Geneva",
+  "country": "Switzerland",
+  "verbatim_tags": [
+   "MHNG",
+   "MHNG (Geneva)"
+  ],
+  "publications": [
+   "baudCatalogueTypesDmammiferes1977",
+   "baudCatalogueTypesDmammiferes1977a",
+   "baudOiseauxPhilippinesCollection1976",
+   "baudOiseauxPhilippinesCollection1978",
+   "ciboisTypeSpecimensBirds2016",
+   "ciboisTypeSpecimensBirds2016a",
+   "weberOiseauxMammiferesCollection1985"
+  ],
+  "publication_count": 7
+ },
+ {
+  "id": "mmnh-marseille",
+  "type": "institution",
+  "name": "Muséum d’Histoire Naturelle de Marseille",
+  "abbreviation": "MMNH",
+  "city": "Marseille",
+  "country": "France",
+  "verbatim_tags": [
+   "MMNH",
+   "Marseille C"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mhnnf-nantes",
+  "type": "institution",
+  "name": "Muséum d’Histoire Naturelle de Nantes",
+  "abbreviation": "MHNNF",
+  "city": "Nantes",
+  "country": "France",
+  "verbatim_tags": [
+   "MHNNF",
+   "Nantes C"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mhnn-neuchatel",
+  "type": "institution",
+  "name": "Muséum d’Histoire Naturelle de Neuchâtel",
+  "abbreviation": "MHNN",
+  "city": "Neuchâtel",
+  "country": "Switzerland",
+  "verbatim_tags": [
+   "MHNN",
+   "MHNN (Neuchâtel)"
+  ],
+  "publications": [
+   "berlepschStudienUberWenig1905",
+   "desfayesCatalogueTypesMusee1994",
+   "desfayesCatalogueTypesMusee1994a",
+   "hellmayrStudienUberWenig1905",
+   "zennibarTschudiSuContribucion1999"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "moiak-vladivostok",
+  "type": "institution",
+  "name": "Muzej Obŝestva izučeniâ Amurskogo kraâ [Museum of the Society for the Study of the Amur Province]",
+  "abbreviation": "MOIAK",
+  "city": "Vladivostok",
+  "country": "Russia",
+  "verbatim_tags": [
+   "MOIAK"
+  ],
+  "publications": [
+   "cerskijOrnitologiceskaaKollekciaMuzea1915",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mzoa-ashgabat",
+  "type": "institution",
+  "name": "Muzej Zakaspìjskoj oblasti [Museum of the Transcaspian Province]. ● Often briefly called: “Zakaspijskij muzej” (Transcaspian Museum).",
+  "abbreviation": "MZOA",
+  "city": "Ashgabat",
+  "country": "Turkmenistan",
+  "verbatim_tags": [
+   "MZOA"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mphu-kharkiv",
+  "type": "institution",
+  "name": "Muzej prirodi, Harkìvs′kij nacìonal′nyj unìversitet ìmenì V. N. Karazìna [Natural History Museum, V.N. Karazin Har′kìv National University]",
+  "abbreviation": "MPHU",
+  "city": "Kharkiv",
+  "country": "Ukraine",
+  "verbatim_tags": [
+   "MNKKNU (Kharkiv)",
+   "MPHU (also: MNKKNU)"
+  ],
+  "publications": [
+   "devatkoKatalogOrnitologiceskojKollekcii2012",
+   "devatkoTipovaSeriaEmberiza2019",
+   "mlikovskySystematicCatalogueBirds2023",
+   "tajkovaGavrilenkosBirdsType",
+   "tajkovaTipoviSeriiPica",
+   "tajkovaTypeSpecimensTaxonomic2012"
+  ],
+  "publication_count": 6
+ },
+ {
+  "id": "mgab-bucharest",
+  "type": "institution",
+  "name": "Muzeul de Istorie Naturală “Grigore Antipa” [Grigore Antipa Museum of Natural History]",
+  "abbreviation": "MGAB",
+  "city": "Bucharest",
+  "country": "Romania",
+  "verbatim_tags": [
+   "MGAB"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023",
+   "papadopolCatalogueCollectionsOrnithologiques1986",
+   "papadopolCatalogueCollectionsOrnithologiques1987",
+   "petrescuBirdCollectionGrigore2007",
+   "petrescuBirdsCollectedZoological2000",
+   "petrescuCatalogueZoologicalCollection2017",
+   "petrescuDonationMonsignorGabriel2017",
+   "petrescuHummingbirdsAvesApodiformes2008",
+   "petrescuListBirdsCollected2001"
+  ],
+  "publication_count": 9
+ },
+ {
+  "id": "mkp-patmerov",
+  "type": "institution",
+  "name": "Muzeum Komenského v Přerově [Komenský Museum in Přerov]",
+  "abbreviation": "MKP",
+  "city": "PÅ™erov",
+  "country": "Czechia",
+  "verbatim_tags": [
+   "MKP"
+  ],
+  "publications": [
+   "hanakAbnormalneZbarveniPtaci1997",
+   "hanakCizokrajniPtaciVe1991",
+   "sitkoFaunistickyVyznamnePrirustky1986"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "miz-warsaw",
+  "type": "institution",
+  "name": "Muzeum i Instytut Zoologii, Polska Akademia Nauk [Museum and Institute of Zoology, Polish Academy of Sciences]",
+  "abbreviation": "MIZ",
+  "city": "Warsaw",
+  "country": "Poland",
+  "verbatim_tags": [
+   "MIZ (Warsaw)",
+   "MIZ (also: MIIZ)"
+  ],
+  "publications": [
+   "ceglinskiZoologicalCollectionsMuseum2023",
+   "cleereReviewTypeMaterial2005",
+   "cleereTypesCaprimulgiformBirds2005",
+   "domaniewskiTypyOpisowePtakow1927",
+   "frahnertNomenclaturalNotesNeotropical2009",
+   "frahnertTypeSpecimensType2009a",
+   "iwanRediscoveryTypeSpecimens2021",
+   "iwanRediscoveryTypeSpecimens2021a",
+   "jarockiSpisPtakowGabinecie1819",
+   "lobkovDerevenskaaLastockaHirundo2023",
+   "mlikovskyEmilHolubsCollection",
+   "mlikovskyJaroslavBohacsBorneo",
+   "mlikovskyTypeSpecimensRecent",
+   "mlikovskyTypeSpecimensType2016",
+   "mlikovskyTypeSpecimensTypea",
+   "mlikovskyTypesBirdsCollections",
+   "mlikovskyTypesBirdsCollections2007",
+   "mlikovskyTypesBirdsCollections2007a",
+   "mlikovskyTypesBirdsCollections2009",
+   "mlikovskyTypesBirdsCollections2009a",
+   "mlikovskyTypesBirdsCollections2010",
+   "mlikovskyTypesBirdsCollectionsa",
+   "sztolcmanRevisionOiseauxNeotropicaux1926",
+   "sztolcmanTypesDoiseauxAu1927",
+   "taczanowskiCollectionsZoologicalMuseum1889",
+   "taczanowskiKollekciiZoologiceskagoKabineta1889"
+  ],
+  "publication_count": 26
+ },
+ {
+  "id": "mlmrh-hluboka-nad-vltavou",
+  "type": "institution",
+  "name": "Muzeum lesnictví, myslivosti a rybářství, Národní zemědělské muzeum [Museum of Forestry, Game- keeping and Fisheries, National Museum of Agriculture]",
+  "abbreviation": "MLMRH",
+  "city": "Hluboká nad Vltavou",
+  "country": "Czechia",
+  "verbatim_tags": [
+   "MLMRH"
+  ],
+  "publications": [
+   "cenekPtaciVeSbirkach2006",
+   "schaeckOrnithologischeSammlungIm1891"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mpuw-wrocaaw",
+  "type": "institution",
+  "name": "Muzeum przyrodnicze, Uniwersytet WrocÅ‚awski [Natural History Museum, University of WrocÅ‚aw]",
+  "abbreviation": "MPUW",
+  "city": "WrocÅ‚aw",
+  "country": "Poland",
+  "verbatim_tags": [
+   "MPUW"
+  ],
+  "publications": [
+   "lontkowskiUniwersytetWroclawskiMuzeum2024"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "nmi-dublin",
+  "type": "institution",
+  "name": "Músaem na Staire Nádúrtha [Museum of Natural History]",
+  "abbreviation": "NMI",
+  "city": "Dublin",
+  "country": "Ireland",
+  "verbatim_tags": [
+   "Dublin C",
+   "NMI"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "nmnhs-sofia",
+  "type": "institution",
+  "name": "Nacionalen PrirodonauÄen Muzej [National Museum of Natural History]",
+  "abbreviation": "NMNHS",
+  "city": "Sofia",
+  "country": "Bulgaria",
+  "verbatim_tags": [
+   "NMNHS"
+  ],
+  "publications": [
+   "boevParrotsOrderPsittaciformes1990",
+   "boevSpecimensExtinctThreatened",
+   "boevStuartBakersCollection1997",
+   "mlikovskyTypeSpecimensRecent2025"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "zik-kiev",
+  "type": "institution",
+  "name": "Nacìonal′nij Naukovo-Prirodničij Muzej, Nacìonal′naâ Akademìâ Nauk Ukraïni [National Museum of Natural History, Ukrainian National Academy of Sciences]",
+  "abbreviation": "ZIK",
+  "city": "Kiev",
+  "country": "Ukraine",
+  "verbatim_tags": [
+   "ZIK",
+   "ZIK (Kiev)"
+  ],
+  "publications": [
+   "mlikovskyTypeSpecimensBirds2012",
+   "pekloKatalogKollekcijZoologiceskogo",
+   "pekloKatalogKollekcijZoologiceskogo2002",
+   "pekloKatalogKollekcijZoologiceskogo2008",
+   "pekloKatalogKollekcijZoologiceskogoa",
+   "pekloTypeSpecimensBirds2012",
+   "tajkovaDigitalizaciaTaMorfomegtricnij",
+   "tajkovaMuzejnaSpadsinaOleksandra2023",
+   "tajkovaMuzejnaSpadsinaVolodimira2021",
+   "tajkovaOrnitologicnaKolekciaOO",
+   "tajkovaOrnitologicniZboriZakarpatskoi2025"
+  ],
+  "publication_count": 11
+ },
+ {
+  "id": "usnm-washington",
+  "type": "institution",
+  "name": "National Museum of Natural History, Smithsonian Institution",
+  "abbreviation": "USNM",
+  "city": "Washington",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "USNM",
+   "USNM (Washington DC)",
+   "USNM (mainly)"
+  ],
+  "publications": [
+   "banksLectotypificationLarusSmithsonianus2007",
+   "banksTypesTaxaHarold1970",
+   "bondSystematicNotesCollection1971",
+   "browningTypeSpecimensHekstras1989",
+   "deignanBirdTypeSpecimens1949",
+   "deignanTypeSpecimensBirds1961",
+   "deignanTypeSpecimensBirds1961a",
+   "hubbardTypesTaxaHarold1970",
+   "mlikovskySystematicCatalogueBirds2025"
+  ],
+  "publication_count": 9
+ },
+ {
+  "id": "nmwc-cardiff",
+  "type": "institution",
+  "name": "National Museum of Wales, Cardiff",
+  "abbreviation": "NMWC",
+  "city": "Cardiff",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "Cardiff D"
+  ],
+  "publications": [
+   "burtonCatalogueCollectionMammalia1838",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "nhmuk-tring",
+  "type": "institution",
+  "name": "Natural History Museum at Tring",
+  "abbreviation": "NHMUK",
+  "city": "Tring",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "BMNH",
+   "NHM)",
+   "NHMUK",
+   "NHMUK (Tring)",
+   "NHMUK (also: BM",
+   "NHUMUK (Tring)",
+   "Tring A",
+   "mainly NHMUK (Tring)"
+  ],
+  "publications": [
+   "aimassiHemixusSumatranusWardlaw2018",
+   "bakerAlfredRusselWallaces2001",
+   "browningTypeSpecimensHekstras1989",
+   "browningTypesTypelocalitiesOreortyx1977",
+   "browningTypesTypelocalitiesOreortyx1977a",
+   "budenBirdsCollectedOtto2010",
+   "carlosNeotypeDesignationAscension2016",
+   "carlosNeotypeDesignationAscension2016a",
+   "cleereCase3491Podargus2009",
+   "cleerePennantwingedNightjarMacrodipteryx2003",
+   "cleerePennantwingedNightjarMacrodipteryx2003a",
+   "cleereTypesNightjarsCaprimulgidae2005",
+   "collarCommentsTaxonomicStatus2023",
+   "dickinsonSystematicNotesAsian",
+   "dickinsonSystematicNotesAsian2000",
+   "dickinsonSystematicNotesAsian2000a",
+   "dickinsonSystematicNotesAsian2000b",
+   "dickinsonSystematicNotesAsian2001c",
+   "dickinsonSystematicNotesAsian2001d",
+   "dickinsonSystematicNotesAsian2002c",
+   "dickinsonTypesDoiseauxRapportes2000",
+   "doneganBogotaTypeSpecimens2015",
+   "dowsettMoreBoydAlexanders2002",
+   "dowsettMoreBoydAlexanders2002a",
+   "fisherTopTopEnd2009",
+   "gadowCatalogueBirdsBritish1883",
+   "gadowCatalogueBirdsBritish1884",
+   "gibson-hillBirdMammalType1949",
+   "gibson-hillBirdMammalType1949a",
+   "grangePicLilfordDendrocopos2020",
+   "gravesRediscoveryHolotypeTrochilus2011",
+   "grayCatalogueBirdsTropical1859",
+   "grayCatalogueMammaliaBirds1859",
+   "grayCatalogueSpecimensDrawings1847",
+   "grayCatalogueSpecimensDrawings1863",
+   "grayHandlistGeneraSpecies1869",
+   "grayHandlistGeneraSpecies1870",
+   "grayHandlistGeneraSpecies1871",
+   "grayListBritishBirds1864",
+   "grayListSpecimensBirds",
+   "grayListSpecimensBirds1856",
+   "grayListSpecimensBirds1867",
+   "grayListSpecimensBirdsa",
+   "grayListSpecimensBirdsb",
+   "grayListSpecimensBirdsc",
+   "grayListSpecimensBritish1850",
+   "grouwRevisionTypeLocality2025",
+   "grouwTaxonomicIdentitiesPsittacula2025",
+   "grouwTaxonomicStatusBurmese",
+   "grouwWhyBollesLaurel2024",
+   "hargittCatalogueBirdsBritish1890",
+   "harrisonTypespecimensBirdsBritish1971",
+   "harrisonTypespecimensBirdsBritish1973",
+   "hartertCoraciaeFamiliesCypselidae1892",
+   "hellmayrCriticalNotesTypes1913",
+   "hellmayrCriticalNotesTypes1914",
+   "hortonClarifyingCollectionDetails2016",
+   "katoNotesReexaminationType2014",
+   "katoNotesReexaminationType2014a",
+   "kennedySystematicNotesAsian2000",
+   "kirschelInvestigationStatusEnigmatic2018",
+   "kirwanCommentsTaxonomicStatus2023",
+   "kirwanConfusingFemaleTaiwanese2024",
+   "kirwanConfusingFemaleTaiwanese2024a",
+   "kirwanCorrectAuthorshipType",
+   "kirwanCorrectAuthorshipType2025",
+   "kirwanNomenclaturalCorrectionsNeotype2014",
+   "kirwanPsittaculaCyanopygiaSouance",
+   "kirwanRemarksTypesNew2023",
+   "knoxExtinctEndangeredBirds1994",
+   "lecroySystematicNotesAsian2001",
+   "loCatalogoCollezioneOrnitologica2000",
+   "loskotSistematiceskoePolozenieBeregovyh2017",
+   "macdonaldTypesTypelocalitiesAlexanders1951",
+   "macdonaldTypesTypelocalitiesAlexanders1951a",
+   "mlikovskyTypeSpecimensType2016",
+   "ogilvie-grantCatalogueBirdsBritish1893",
+   "ogilvie-grantSteganopodesCormorantsGannets1898",
+   "olsonTwoOverlookedHolotypes1989",
+   "olsonTypesNomenclatureTwo1995",
+   "olsonTypesNomenclatureTwo1995a",
+   "piacentiniIdentityMicrasturGuerilla2024",
+   "piacetiniIdentityMicrasturGuerilla2024",
+   "praveenRevisionTypeLocality2025",
+   "prys-jonesCompositionSyntypeSeries2021",
+   "prys-jonesCorrectAuthorityName2023",
+   "prys-jonesNameStruthioAustralis2023",
+   "prys-jonesRediscoveryHolotypeTrochilus2011",
+   "prys-jonesRediscoverySyntypesCalifornia2014",
+   "prys-jonesRiseFallHarlequin2019",
+   "prys-jonesTypeSpecimensUrospizias2022",
+   "salvadoriCatalogueBirdsBritish1891",
+   "salvadoriCatalogueBirdsBritish1893",
+   "salvadoriCatalogueChenomorphaePalamedeae1895",
+   "salvinTubinaresPetrelsAlbatrosses1896",
+   "salvinUpupaeTrochili1892",
+   "saundersGaviaeTernsGulls1896",
+   "sclaterCatalogueBirdsBritish1886",
+   "sclaterCatalogueBirdsBritish1888",
+   "sclaterCatalogueBirdsBritish1890",
+   "sclaterScansoresCoccygesContaining1891",
+   "sharpeBirds1906",
+   "sharpeCatalogueBirdsBritish1874",
+   "sharpeCatalogueBirdsBritish1875",
+   "sharpeCatalogueBirdsBritish1877",
+   "sharpeCatalogueBirdsBritish1879",
+   "sharpeCatalogueBirdsBritish1882",
+   "sharpeCatalogueBirdsBritish1883",
+   "sharpeCatalogueBirdsBritish1885",
+   "sharpeCatalogueBirdsBritish1888",
+   "sharpeCatalogueBirdsBritish1890",
+   "sharpeCatalogueBirdsBritish1892",
+   "sharpeCatalogueBirdsBritish1894",
+   "sharpeCatalogueBirdsBritish1896",
+   "sharpePlataleaeIbisesSpoonbills1898",
+   "shelleyScansoresCoccygesContaining1891",
+   "slaterCompositionSyntypeSeries2021",
+   "slaterTypeSpecimensUrospizias2022",
+   "steinheimerCharlesDarwinsBird2004",
+   "steinheimerCharlesDarwinsBird2004a",
+   "steinheimerEduardRuppellsAvian2005",
+   "steinheimerLectotypeDesignationCinnyris2008a",
+   "steinheimerNewlyDiscoveredParalectotype2002",
+   "steinheimerNomenclatureEduardRuppells",
+   "steinheimerNomenclatureEduardRuppells2005",
+   "stopigliaTaxonomicNomenclaturalStatus2019",
+   "tennysonLectotypificationSubantarcticDiving2022",
+   "turnerCommentsTypeSpecimen2023",
+   "varleyRediscoveryLongMisattributed2016",
+   "waltersSystematicNotesAsian2006",
+   "warrenTypespecimensBirdsBritish1966",
+   "warrenTypespecimensBirdsBritish1966a",
+   "warrenTypespecimensBirdsBritish1971",
+   "wellerTypesTrochilidsNatural1998",
+   "wellerTypesTrochilidsNatural1999",
+   "wellerTypesTrochilidsNatural1999a",
+   "wellerTypesTrochilidsNatural2001",
+   "wellerTypesTrochilidsNatural2001a",
+   "whiteNameStruthioAustralis2023"
+  ],
+  "publication_count": 139
+ },
+ {
+  "id": "nhmzb-bulawayo",
+  "type": "institution",
+  "name": "Natural History Museum of Zimbabwe",
+  "abbreviation": "NHMZB",
+  "city": "Bulawayo",
+  "country": "Zimbabwe",
+  "verbatim_tags": [
+   "NHMZB",
+   "NMZ"
+  ],
+  "publications": [
+   "dowsettZoologicalHolotypesLivingstone1975a",
+   "mlikovskySystematicCatalogueBirds2025"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "nhmd-copenhagen",
+  "type": "institution",
+  "name": "Natural History Museum, Denmark",
+  "abbreviation": "NHMD",
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "verbatim_tags": [
+   "NHMD"
+  ],
+  "publications": [
+   "hellmayrStudienUberWenig1905"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "rmnh-leiden",
+  "type": "institution",
+  "name": "Naturalis",
+  "abbreviation": "RMNH",
+  "city": "Leiden",
+  "country": "Netherlands",
+  "verbatim_tags": [
+   "Leiden A",
+   "RMNH",
+   "RMNH (Leiden)"
+  ],
+  "publications": [
+   "buttikoferGenusPycnonotusAllied1896",
+   "dekkerSystematicNotesAsian2001",
+   "dekkerSystematicNotesAsian2001a",
+   "dekkerSystematicNotesAsian2001b",
+   "dekkerSystematicNotesAsian2006",
+   "dekkerTaxonomicIdentityLectotype2008",
+   "dekkerTypeSpecimensBirds2003",
+   "dekkerTypeSpecimensBirds2003a",
+   "dekkerTypeSpecimensBirds2006",
+   "dickinsonSystematicNotesAsian2001",
+   "dickinsonSystematicNotesAsian2002",
+   "finschZurCatalogisirungOrnithologischen",
+   "finschZurCatalogisirungOrnithologischen1902",
+   "finschZurCatalogisirungOrnithologischen1903",
+   "finschZurCatalogisirungOrnithologischena",
+   "gouraud12AprReview2016",
+   "gouraudReviewTypeSeries2016",
+   "hoekTypespecimensBirdsNational1997",
+   "jamesHolotypeLaysanFinch1986",
+   "jansenBirdCollectionMuseum2015",
+   "jansenHistorySoleSurviving2021",
+   "jentinkMuseeumDhistoireNaturelle1894",
+   "jungeBonapartesTypesCuckoos1936",
+   "lecroyCollectionMaximilianPrince2014",
+   "lecroyCollectionMaximilianPrince2014a",
+   "mijeTypeSpecimensNonpasserines2023",
+   "mijeTypespecimensNonpasserinesNaturalis2023",
+   "mlikovskyTypeSpecimensType2016",
+   "oijenNotesTypesEarly2007",
+   "olsonTypeSpecimensHawaiian1994a",
+   "oortContributionOurKnowledge1908",
+   "oortReportBirdsNetherlands1909",
+   "oortReportBirdsNetherlands1910",
+   "oortReportBirdsNetherlands1911",
+   "ostendeTypespecimensBirdsNational1997",
+   "prinsListTypeSpecimens2000",
+   "prinsSpecimensParulidaeNeotropics1992",
+   "quaisserTaxonomicIdentityLectotype2008",
+   "quaisserTypeSpecimensBirds2006",
+   "roselaarNotesTypesEarly2007",
+   "roselaarSystematicNotesMegapodiidae1994",
+   "temminckCatalogueSystematiqueCabinet1807",
+   "vlietChequeredHistoryChattering2015",
+   "voisinTypesTaxonsLarus1998a"
+  ],
+  "publication_count": 44
+ },
+ {
+  "id": "nhmmz-mainz",
+  "type": "institution",
+  "name": "Naturhistorisches Museum",
+  "abbreviation": "NHMMZ",
+  "city": "Mainz",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Mainz D"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023",
+   "mlikovskyTaxonomicStatusGeotrygon",
+   "reichholfBestandTypenmaterialOrnithologischen1983"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "nmb-basel",
+  "type": "institution",
+  "name": "Naturhistorisches Museum Basel",
+  "abbreviation": "NMB",
+  "city": "Basel",
+  "country": "Switzerland",
+  "verbatim_tags": [
+   "Basel B",
+   "NMB",
+   "NMB (Basel)"
+  ],
+  "publications": [
+   "hanggiKommentierteListeTypen2003",
+   "winklerTypenVogelsammlungBasler2005",
+   "winklerTypenVogesammlungBasler2005",
+   "winklerVogelsammlungGiovanniStefanoni2013"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "nhmw-vienna",
+  "type": "institution",
+  "name": "Naturhistorisches Museum Wien",
+  "abbreviation": "NHMW",
+  "city": "Vienna",
+  "country": "Austria",
+  "verbatim_tags": [
+   "NHMW (also: NMW)",
+   "NMW",
+   "NMW (Vienna)",
+   "NMW(Wien)"
+  ],
+  "publications": [
+   "bauernfeindBirdSpecimensLeverian2004",
+   "bauernfeindBirdSpecimensLeverian2004a",
+   "berlepschStudienUberWenig1905",
+   "dekkerSystematicNotesAsian2006",
+   "elzenTypeSpecimensThamnophilidae2023",
+   "elzenTypeSpecimensThamnophilidae2023a",
+   "elzenTypenGuidoSchiebel1986",
+   "gouraudReviewTypeSeries2016",
+   "hellmayrStudienUberWenig1905",
+   "hellmayrUberNeueUnd1904",
+   "keveImNaturhistorischenMuseum1947",
+   "keveVogelAlmasyAusbeute19011966",
+   "kraljSamplesBirdsCroatia1996",
+   "lorenzTypenOrnithologischenSammlung1886",
+   "lorenzTypenOrnithologischenSammlung1887",
+   "lorenzTypenOrnithologischenSammlung1888",
+   "medwayExtantTypesNew1976",
+   "medwayExtantTypesNew1976a",
+   "medwayReviewOriginEuropean2010",
+   "medwayReviewOriginEuropean2010a",
+   "mlikovskyNomenclaturalTaxonomicStatus2011",
+   "mlikovskyTypeSpecimensType2016",
+   "olsonIdentityFabricatedBird1989",
+   "palandacicAnnotatedCatalogueSelected2024",
+   "palandacicAnnotatedCatalogueSelected2024a",
+   "pelzelnBirdsImperialCollection",
+   "pelzelnBirdsImperialCollection1873",
+   "pelzelnBirdsImperialCollectiona",
+   "pelzelnTypenOrnithologischenSammlung",
+   "pelzelnTypenOrnithologischenSammlung1886",
+   "pelzelnTypenOrnithologischenSammlung1888",
+   "pelzelnTypenOrnithologischenSammlunga",
+   "quaisserSystematicNotesAsian2006",
+   "rokitanskyOrnithologischeErgebnisseZweier1971",
+   "rossnerVogelsammlungOsterreichischenKleinasienexpedition1935",
+   "sassiWertvollstenStuckeWiener1939",
+   "schifterBirdSpecimensNatural1999",
+   "schifterFerdinandDeppeUnd1996",
+   "schifterJohannNattererBrasilien",
+   "schifterTypeSpecimensBirds2007",
+   "schifterTypeSpecimensBirds2007a",
+   "schifterTypenGuidoSchiebel1986",
+   "schifterTypenTheodorHeuglin1991",
+   "schifterTypenTheodorHeuglin1991a",
+   "schifterTypenVogelsammlungNaturhistorischen2007",
+   "schifterVogelAusNachlass",
+   "schifterVogelAusNachlass1992",
+   "tschusiTypenMeinerSammlung1906",
+   "vlietOriginsIdentificationType2019",
+   "vlietOriginsIdentificationType2019a",
+   "wellerTaxonomicIdentityTrochilus2005"
+  ],
+  "publication_count": 51
+ },
+ {
+  "id": "nmbe-bern",
+  "type": "institution",
+  "name": "Naturhistorisches Museum der Burgergemeinde Bern",
+  "abbreviation": "NMBE",
+  "city": "Bern",
+  "country": "Switzerland",
+  "verbatim_tags": [
+   "Bern C",
+   "NMBE",
+   "NMBE (Bern)"
+  ],
+  "publications": [
+   "guntertGoeldiCollectionNatural1993",
+   "guntertMysteryGouldianBirds2005",
+   "guntertMysteryGouldianBirds2005a",
+   "schweizerErsteDokumentierteFeststellung2008"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "nhmo-oslo",
+  "type": "institution",
+  "name": "Naturhistorisk Museum, Universitetet i Oslo [Zoological Museum, Oslo University]",
+  "abbreviation": "NHMO",
+  "city": "Oslo",
+  "country": "Norway",
+  "verbatim_tags": [
+   "NHMO",
+   "NHMO (Oslo)",
+   "Oslo B"
+  ],
+  "publications": [
+   "johannessenTypeSpecimensBirds2022"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "gnm-gothenburg",
+  "type": "institution",
+  "name": "Naturhistoriska Museet [Natural History Museum]",
+  "abbreviation": "GNM",
+  "city": "Gothenburg",
+  "country": "Sweden",
+  "verbatim_tags": [
+   "GNM"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "nrm-stockholm",
+  "type": "institution",
+  "name": "Naturhistoriska Riksmuseet [State Museum of Natural History]",
+  "abbreviation": "NRM",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "verbatim_tags": [
+   "NRM",
+   "NRM (Stockholm)",
+   "Stockholm A"
+  ],
+  "publications": [
+   "deanAvianTypeLocalities2022",
+   "deanAvianTypeLocalities2022a",
+   "gyldenstolpeDesignationNeotypeNominal1957",
+   "gyldenstolpeTypesBirdsRoyal1926",
+   "gyldenstolpeTypesBirdsRoyal1926a",
+   "masudaBirdMammalSpecimens2008",
+   "medwayExtantTypeSpecimens2004",
+   "medwayExtantTypeSpecimens2004a",
+   "medwayExtantTypesNew1976a",
+   "sundevallKritiskFramstallningAf1857"
+  ],
+  "publication_count": 10
+ },
+ {
+  "id": "nkmc-coburg",
+  "type": "institution",
+  "name": "Naturkunde-Museum",
+  "abbreviation": "NKMC",
+  "city": "Coburg",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Coburg C",
+   "NKMC"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "nmb-bamberg",
+  "type": "institution",
+  "name": "Naturkunde-Museum Bamberg",
+  "abbreviation": "NMB",
+  "city": "Bamberg",
+  "country": "Germany",
+  "verbatim_tags": [
+   "NMB (Bamberg)"
+  ],
+  "publications": [
+   "steinheimerBambergsNaturalHistory2003"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "nme-erfurt",
+  "type": "institution",
+  "name": "Naturkundemuseum Erfurt",
+  "abbreviation": "NME",
+  "city": "Erfurt",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Erfurt D",
+   "NME"
+  ],
+  "publications": [
+   "aimassiHemixusSumatranusWardlaw2018",
+   "ansorgeVogelsammlungStaatlichenMuseums1987",
+   "carlosCharadriusWilsoniaBrasiliensis2011",
+   "grimmOrnithologischeSammlungNaturkundemuseums2012",
+   "halleyTaxonomicStatusWestern2022",
+   "hartertKatalogVogelsammlungIm1891",
+   "herrLoebensteinscheVogelsammlung1931",
+   "hilgertKatalogCollectionErlanger1908",
+   "mertensImSenckenbergMuseumVorhandenen1955",
+   "mlikovskyTypeSpecimensType2016",
+   "petersAusgestorbeneUndGefahrdete2004",
+   "steinbacherBemerkungenZurNomenklatur1952",
+   "steinbacherKritischesVerzeichnisEduard1949",
+   "steinbacherTypenVogelsammlungFH1954",
+   "steinbacherWeitereAngabenUber1959",
+   "steinheimerLectotypeDesignationCinnyris2008",
+   "steinheimerNomenclatureEduardRuppells"
+  ],
+  "publication_count": 17
+ },
+ {
+  "id": "nkml-leipzig",
+  "type": "institution",
+  "name": "Naturkundemuseum Leipzig",
+  "abbreviation": "NKML",
+  "city": "Leipzig",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Leipzig D",
+   "NKML"
+  ],
+  "publications": [
+   "meyerWirbeltierpraparateAusZoologischen2003"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "mzl-lausanne",
+  "type": "institution",
+  "name": "Naturéum [formerly: Musée cantonal de zoologie de Lausanne]",
+  "abbreviation": "MZL",
+  "city": "Lausanne",
+  "country": "Switzerland",
+  "verbatim_tags": [
+   "Lausanne D"
+  ],
+  "publications": [
+   "berlepschStudienUberWenig1905",
+   "desfayesCatalogueTypesMusee1994"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "nlmh-hanover",
+  "type": "institution",
+  "name": "Niedersächsische Landesmuseum Hannover",
+  "abbreviation": "NLMH",
+  "city": "Hanover",
+  "country": "Germany",
+  "verbatim_tags": [
+   "NLMH"
+  ],
+  "publications": [
+   "anonymousKatalogSystematischenVogelsammlung",
+   "anonymousKatalogVogelsammlungAus"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "ncm-norwich",
+  "type": "institution",
+  "name": "Norwich Castle Museum",
+  "abbreviation": "NCM",
+  "city": "Norwich",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "NCM",
+   "Norwich C"
+  ],
+  "publications": [
+   "gurneyCollectionRaptorialBirds1893",
+   "gurneyDescriptiveCatalogueRaptorial1864",
+   "gurneyListDiurnalBirds1884",
+   "gurneySketchCollectionRaptorial1872",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "nmp-prague",
+  "type": "institution",
+  "name": "Národní muzeum [National Museum of the Czech Republic]",
+  "abbreviation": "NMP",
+  "city": "Prague",
+  "country": "Czechia",
+  "verbatim_tags": [
+   "NMP",
+   "NMP (Prague)"
+  ],
+  "publications": [
+   "fricCatalogSaugethiereUnd",
+   "fricSeznamSsavectvaPtactva",
+   "husekOrnitologickaSbirkaKarla2021",
+   "jandaVymreleKritickyOhrozene2001",
+   "mlikovskyBirdsTranscarpathiaUkraine",
+   "mlikovskyElseHoffsFl",
+   "mlikovskyEmilHolubsCollection",
+   "mlikovskyExtinctNearlyExtinct",
+   "mlikovskyJaroslavBohacsBorneo",
+   "mlikovskyJosefMusileksCollection2006",
+   "mlikovskyJosefMusileksCollection2006a",
+   "mlikovskyNomenclaturalTaxonomicStatus2011",
+   "mlikovskyOrnithologicalResultsCzechoslovakIranian2007",
+   "mlikovskyPticeSrbijeZbirkama2025",
+   "mlikovskyTypeSpecimensRecent",
+   "mlikovskyTypeSpecimensRecent2011",
+   "mlikovskyTypesBirdsCollections2005",
+   "mlikovskyTypesBirdsCollections2005a"
+  ],
+  "publication_count": 18
+ },
+ {
+  "id": "nmk-nairobi",
+  "type": "institution",
+  "name": "Ornithology Section, Zoology Department, National Museums of Kenya",
+  "abbreviation": "NMK",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "verbatim_tags": [
+   "NMK",
+   "NMK (Nairobi)"
+  ],
+  "publications": [
+   "buschingUberFarbaberranteVogel1990",
+   "buschingVogelAusAskana2011",
+   "buschingVogelsammlungJohannFriedrich",
+   "buschingVogelsammlungJohannFriedrich2003",
+   "grouwColourfulJourneyEurasian2022",
+   "justKatalogKollektionenNaumannMuseums2003",
+   "mlikovskySystematicCatalogueBirds2023",
+   "otienoTypeSpecimensOrnithological2014",
+   "otienoTypeSpecimensOrnithological2014a"
+  ],
+  "publication_count": 9
+ },
+ {
+  "id": "oumnh-oxford",
+  "type": "institution",
+  "name": "Oxford University Museum of Natural History",
+  "abbreviation": "OUMNH",
+  "city": "Oxford",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "OUMNH",
+   "OUMNH (Oxford)",
+   "Oxford",
+   "Oxford B"
+  ],
+  "publications": [
+   "daviesBurchellsSouthAfrican1983",
+   "hullWilliamBurchellsSouth1981",
+   "pickeringWilliamJohnBurchells1998",
+   "pickeringWilliamJohnBurchells1998a"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "tasu-tashkent",
+  "type": "institution",
+  "name": "O’zbekiston Milliy Universiteti [National University of Uzbekistan],",
+  "abbreviation": "TASU",
+  "city": "Tashkent",
+  "country": "Uzbekistan",
+  "verbatim_tags": [
+   "TASU",
+   "TASU (Tashkent)"
+  ],
+  "publications": [
+   "balanTipyNovoopisanijPtic1966",
+   "balanTypesBirdsCollection1966"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "mct-terrasini",
+  "type": "institution",
+  "name": "Palazzo d'Aumale - Museo Regionale di Terrasini",
+  "abbreviation": "MCT",
+  "city": "Terrasini",
+  "country": "Italy",
+  "verbatim_tags": [
+   "MCT (Palermo)"
+  ],
+  "publications": [
+   "orlandoDesignazioneDiLectotypi1990",
+   "orlandoTipiRaccolteMuseo1990"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "pmm-manila",
+  "type": "institution",
+  "name": "Pambansang Museo ng Likas na Kasaysayan [National Museum of Natural History]",
+  "abbreviation": "PMM",
+  "city": "Manila",
+  "country": "Philippines",
+  "verbatim_tags": [
+   "PMM"
+  ],
+  "publications": [
+   "manuelNeotypesPhilippineBirds1956"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "pgmv-vladivostok",
+  "type": "institution",
+  "name": "Primorskij gosudarstvennyj ob″edinennyj muzej im. V. K. Arsen′eva [V.K. Arsen′ev Primorsk State United Museum]",
+  "abbreviation": "PGMV",
+  "city": "Vladivostok",
+  "country": "Russia",
+  "verbatim_tags": [
+   "PGMV"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "nhmbeo-belgrade",
+  "type": "institution",
+  "name": "PrirodnjaÄki muzej u Beogradu [Natural History Museum in Belgrade]",
+  "abbreviation": "NHMBEO",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "verbatim_tags": [
+   "NHMBEO"
+  ],
+  "publications": [
+   "[stojicevicSpisakPticaMuzeju",
+   "barjaktarovCatalogBirdCollection2005"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "pmsl-ljubljana",
+  "type": "institution",
+  "name": "Prirodoslovni muzej Slovenije [Slovenian Museum of Natural History]",
+  "abbreviation": "PMSL",
+  "city": "Ljubljana",
+  "country": "Slovenia",
+  "verbatim_tags": [
+   "Ljubljana D",
+   "PMSL"
+  ],
+  "publications": [
+   "gregoriKatalogPticevNepala2018",
+   "vrezecBirdsCentralEastern2016",
+   "vrezecCigreSterninaeZbirki2019"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "psm-tacoma",
+  "type": "institution",
+  "name": "Puget Sound Museum of Natural History, University of Puget Sound",
+  "abbreviation": "PSM",
+  "city": "Tacoma",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "PSM"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "qmb-brisbane",
+  "type": "institution",
+  "name": "Queensland Museum Kurilpa",
+  "abbreviation": "QMB",
+  "city": "Brisbane",
+  "country": "Australia",
+  "verbatim_tags": [
+   "(QM) Brisbane",
+   "QMB"
+  ],
+  "publications": [
+   "ingramAvianTypeSpecimens1987",
+   "ingramAvianTypeSpecimens1987a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "ramm-exeter",
+  "type": "institution",
+  "name": "Royal Albert Memorial Museum & Art Gallery",
+  "abbreviation": "RAMM",
+  "city": "Exeter",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "Exeter C",
+   "RAMM (also: EXEMS)"
+  ],
+  "publications": [
+   "howesSurveyExtinctNearly1969"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "shms-sendai",
+  "type": "institution",
+  "name": "SaitÅ HÅ-on Kai Shizen-shi Hakubutsukan [SaitÅ HÅ-on Kai Museum of Natural History]",
+  "abbreviation": "SHMS",
+  "city": "Sendai",
+  "country": "Japan",
+  "verbatim_tags": [
+   "SHMS"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "semt-tbilisi",
+  "type": "institution",
+  "name": "Sak′art′velos Erovnuli Muzeumi [Georgian National Museum]",
+  "abbreviation": "SEMT",
+  "city": "Tbilisi",
+  "country": "Georgia",
+  "verbatim_tags": [
+   "SEMT"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023",
+   "raddeKollekciiKavkazskagoMuzea1899"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "sdnhm-san-diego",
+  "type": "institution",
+  "name": "San Diego Natural History Museum",
+  "abbreviation": "SDNHM",
+  "city": "San Diego",
+  "country": "United States of America",
+  "verbatim_tags": [
+   "SDNHM",
+   "SDNHM (San Diego)"
+  ],
+  "publications": [
+   "jehlTypeSpecimensBirds1968",
+   "jehlTypeSpecimensBirds1968a"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "sokm-saratov",
+  "type": "institution",
+  "name": "Saratovskij oblastnoj kraevedÄeskij muzej [Saratov Regional Museum of Local History]",
+  "abbreviation": "SOKM",
+  "city": "Saratov",
+  "country": "Russia",
+  "verbatim_tags": [
+   "SOKM",
+   "Saratov C"
+  ],
+  "publications": [
+   "gromovaKatalogPticihTusek2005",
+   "korepovaKatalogOrnitologiceskojKollekcii2015",
+   "korepovaOrnitologiceskaaKollekciaSA2010",
+   "korepovaTypeSpecimensBirds2013",
+   "mlikovskySystematicCatalogueBirds2023",
+   "molcanovSpisokPticEstestvennoIstoriceskogo1906"
+  ],
+  "publication_count": 6
+ },
+ {
+  "id": "svs-sempach",
+  "type": "institution",
+  "name": "Schweizerische Vogelwarte Sempach",
+  "abbreviation": "SVS",
+  "city": "Sempach",
+  "country": "Switzerland",
+  "verbatim_tags": [
+   "SVS",
+   "Sempach D"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "smng-gorlitz",
+  "type": "institution",
+  "name": "Senckenberg Museum für Naturkunde Görlitz",
+  "abbreviation": "SMNG",
+  "city": "Görlitz",
+  "country": "Germany",
+  "verbatim_tags": [
+   "SMNG"
+  ],
+  "publications": [
+   "ansorgeVogelsammlungStaatlichenMuseums1987",
+   "herrLoebensteinscheVogelsammlung1931"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "smf-frankfurt",
+  "type": "institution",
+  "name": "Senckenberg Naturmuseum",
+  "abbreviation": "SMF",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "verbatim_tags": [
+   "SMF",
+   "SMF (Frankfurt am Main)"
+  ],
+  "publications": [
+   "aimassiHemixusSumatranusWardlaw2018",
+   "carlosCharadriusWilsoniaBrasiliensis2011",
+   "cleereReviewTypeMaterial2005",
+   "halleyTaxonomicStatusWestern2022",
+   "halleyTaxonomicStatusWestern2022a",
+   "hartertKatalogVogelsammlungIm1891",
+   "hartertKatalogVogelsammlungMuseum1891",
+   "hilgertKatalogCollectionErlanger1908",
+   "mertensImSenckenbergMuseumVorhandenen1955",
+   "mlikovskyTypeSpecimensType2016",
+   "petersAusgestorbeneUndGefahrdete2004",
+   "steinbacherBemerkungenZurNomenklatur1952",
+   "steinbacherBemerkungenZurNomenklatur1952a",
+   "steinbacherKritischesVerzeichnisEduard1949",
+   "steinbacherTypenUndTypoide1949",
+   "steinbacherTypenUndTypoide1954",
+   "steinbacherTypenVogelsammlungFH1954",
+   "steinbacherWeitereAngabenUber1959",
+   "steinheimerLectotypeDesignationCinnyris2008",
+   "steinheimerLectotypeDesignationCinnyris2008a",
+   "steinheimerNomenclatureEduardRuppells",
+   "steinheimerNomenclatureEduardRuppells2005"
+  ],
+  "publication_count": 22
+ },
+ {
+  "id": "smnh-seoul",
+  "type": "institution",
+  "name": "Seoul Museum of Natural History",
+  "abbreviation": "SMNH",
+  "city": "Seoul",
+  "country": "South Korea",
+  "verbatim_tags": [
+   "SMNH"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "ffpri-tsukuba",
+  "type": "institution",
+  "name": "ShinrinsÅgÅkenkyÅ«jo [Forest and Forest Product Research Institute].",
+  "abbreviation": "FFPRI",
+  "city": "Tsukuba",
+  "country": "Japan",
+  "verbatim_tags": [
+   "FFPRI",
+   "FFPRI (Tsukuba)"
+  ],
+  "publications": [
+   "kawajiCatalogueBirdSkin2003",
+   "kawajiCatalogueMishimasCollection2002",
+   "kawajiCatalogueMishimasCollection2002a",
+   "moriokaTypesJapaneseBirds2005"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "sama-adelaide",
+  "type": "institution",
+  "name": "South Australian Museum",
+  "abbreviation": "SAMA",
+  "city": "Adelaide",
+  "country": "Australia",
+  "verbatim_tags": [
+   "SAMA",
+   "SAMA (Adelaide)"
+  ],
+  "publications": [
+   "condonVertebrateTypespecimensSouth1976",
+   "condonVertebrateTypespecimensSouth1976a",
+   "tennysonLectotypificationSubantarcticDiving2022"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "smns-stuttgart",
+  "type": "institution",
+  "name": "Staatliches Museum für Naturkunde",
+  "abbreviation": "SMNS",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "verbatim_tags": [
+   "SMNS",
+   "SMNS (Stuttgart)",
+   "Stuttgart A"
+  ],
+  "publications": [
+   "konigVogelSudSudanTaxonomische1983",
+   "woogVogelsammlungStaatlichenMuseums2003"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "smtd-dresden",
+  "type": "institution",
+  "name": "Staatliches Museum für Tierkunde",
+  "abbreviation": "SMTD",
+  "city": "Dresden",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Dresden A",
+   "SMTD (Dresden)",
+   "SMTD (also: SNSD)"
+  ],
+  "publications": [
+   "eckAusgestorbenenVogelBalge1970",
+   "eckBedeutungSammlungBahrmann1986",
+   "eckKatalogOrnithologischenSammlung",
+   "eckKatalogOrnithologischenSammlung1985",
+   "eckKatalogOrnithologischenSammlunga",
+   "eckKatalogOrnithologischenSammlungb",
+   "eckKatalogOrnithologischenSammlungc",
+   "eckKatalogOrnithologischenSammlungd",
+   "eckKatalogOrnithologischenSammlunge",
+   "eckKorrekturenUndErganzungen2006",
+   "eckVerzeichnisTypenVogelsammlung2004",
+   "jonssonRelictsLostArc2018",
+   "meiseVerzeichnisTypenStaatlichen1929",
+   "meiseVerzeichnisTypenStaatlichen1929a",
+   "quaisserKorrekturenUndErganzungen2006",
+   "quaisserVerzeichnisTypenVogelsammlung2004",
+   "topferNachweiseSeltenerVogeltaxa2008"
+  ],
+  "publication_count": 17
+ },
+ {
+  "id": "snmbg-braunschweig",
+  "type": "institution",
+  "name": "Staatliches Naturhistorisches Museum",
+  "abbreviation": "SNMBG",
+  "city": "Braunschweig",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Braunschweig B",
+   "SNMB (Braunschweig)",
+   "SNMBG"
+  ],
+  "publications": [
+   "blasiusMuseumHomeyerianumVerzeichniss1893",
+   "heinzeTypusexemplareWilhelmBlasius1990",
+   "heversTypenStaatlichenNaturhistorischen2004",
+   "heversTypusexemplareStaatlichenNaturhistorischen2005",
+   "heversTypusexemplareStaatlichenNaturhistorischen2005a"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "zmuc-copenhagen",
+  "type": "institution",
+  "name": "Statens Naturhistoriske Museum, Københavns Universitet [Natural History Museum of Denmark, University of Copenhagen]",
+  "abbreviation": "ZMUC",
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "verbatim_tags": [
+   "ZMUC"
+  ],
+  "publications": [
+   "berlepschStudienUberWenig1905",
+   "krabbeBirdsCollectedLund2007"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "smnsn-stavanger",
+  "type": "institution",
+  "name": "Stavanger Museum Naturhistorie [Stavanger Museum of Natural History]",
+  "abbreviation": "SMNSN",
+  "city": "Stavanger",
+  "country": "Norway",
+  "verbatim_tags": [
+   "SMNSN",
+   "Stavanger C"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "sau-yaan",
+  "type": "institution",
+  "name": "Sìchuān nóngyè dàxué [Sichuan Agricultural University]",
+  "abbreviation": "SAU",
+  "city": "Ya’an",
+  "country": "China",
+  "verbatim_tags": [
+   "SAU"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "svms-radolfzell",
+  "type": "institution",
+  "name": "Süddeutsche Vogelwarte",
+  "abbreviation": "SVMS",
+  "city": "Radolfzell",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Radolfzell X",
+   "SVMS"
+  ],
+  "publications": [
+   "anonymousKatalogPalaearktischenVogelbalge",
+   "anonymousKatalogPalaearktischenVogelbalge1919",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "hzm-sevenoaks",
+  "type": "institution",
+  "name": "The Harrison Institute",
+  "abbreviation": "HZM",
+  "city": "Sevenoaks",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "HZM",
+   "Sevenoaks X"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "nmsz-edinburgh",
+  "type": "institution",
+  "name": "The National Museums of Scotland",
+  "abbreviation": "NMSZ",
+  "city": "Edinburgh",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "Edinburgh B",
+   "NMS (Edinburgh)",
+   "NMSZ"
+  ],
+  "publications": [
+   "bahrDiscoveryNamingRemarkable2020",
+   "bruceDiscoveryNamingRemarkable2020",
+   "hermanCatalogueTypeSpecimens1990",
+   "hermanCatalogueTypeSpecimens1990a",
+   "loCatalogoCollezioneOrnitologica2000",
+   "stenhouseBirdtypesRoyalScottish1930",
+   "stenhouseBirdtypesRoyalScottish1930a"
+  ],
+  "publication_count": 7
+ },
+ {
+  "id": "tnhm-thiruvananthapuram",
+  "type": "institution",
+  "name": "Thiruvananthapuram Natural History Museum",
+  "abbreviation": "TNHM",
+  "city": "Thiruvananthapuram",
+  "country": "India",
+  "verbatim_tags": [
+   "TNHM",
+   "Thiruvananthapuram Museum"
+  ],
+  "publications": [
+   "praveenMappingHistoricalRecords2022",
+   "sashikumarCatalogueBirdsCollection2013"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "tnhm-trivandrum",
+  "type": "institution",
+  "name": "Thiruvananthapuram Natural History Museum",
+  "abbreviation": "TNHM",
+  "city": "Trivandrum",
+  "country": null,
+  "verbatim_tags": [
+   "Trivandrum Museum"
+  ],
+  "publications": [
+   "sashikumarCatalogueBirdsCollection2013a"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "tpmt-tokushima",
+  "type": "institution",
+  "name": "Tokushima Kenritsu Hakubutsukan [Tokushima Prefectural Museum]",
+  "abbreviation": "TPMT",
+  "city": "Tokushima",
+  "country": "Japan",
+  "verbatim_tags": [
+   "TPMT"
+  ],
+  "publications": [
+   "moriokaTypesJapaneseBirds2005"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "ukm-ulyanovsk",
+  "type": "institution",
+  "name": "Ul′ânovskij oblastnoj kraevedčeskij muzej [Ul′ânovsk Regional Museum of National History]",
+  "abbreviation": "UKM",
+  "city": "Ulyanovsk",
+  "country": "Russia",
+  "verbatim_tags": [
+   "UKM",
+   "UKM (Ul’ânovsk)"
+  ],
+  "publications": [
+   "gromovaKatalogPticihTusek2005",
+   "korepovaKatalogOrnitologiceskojKollekcii2015",
+   "korepovaOrnitologiceskaaKollekciaSA2010",
+   "korepovaTypeSpecimensBirds2013",
+   "mlikovskyTypeSpecimensBirds2013"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "umzc-cambridge",
+  "type": "institution",
+  "name": "University Museum of Zoology, Cambridge University",
+  "abbreviation": "UMZC",
+  "city": "Cambridge",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "Cambridge A",
+   "UCMZ (Cambridge",
+   "UMZC",
+   "UMZC (Cambridge"
+  ],
+  "publications": [
+   "bensonCambridgeCollectionMalagasy1970",
+   "bensonCambridgeCollectionMalagasy1971",
+   "bensonMuscicapaRuficaudaSwainson1979",
+   "bensonMuscicapaRuficaudaSwainson1979a",
+   "bensonSkinsExtinctExtinct1972",
+   "bensonTypeSpecimensBird1999",
+   "bensonTypeSpecimensBird1999a",
+   "buainainTaxonomicRevisionSaffronbilled2016",
+   "mcallanTypeLocalityAustralian2007",
+   "mcallanTypeLocalityAustralian2007a"
+  ],
+  "publication_count": 10
+ },
+ {
+  "id": "livcm-liverpool",
+  "type": "institution",
+  "name": "World Museum, Liverpool",
+  "abbreviation": "LivCM",
+  "city": "Liverpool",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "LivCM",
+   "Liverpool A",
+   "WML",
+   "WML (Liverpool)"
+  ],
+  "publications": [
+   "anonymousBirdsDerbyMuseum1899",
+   "cowperBirdsMascareneIslands1984",
+   "doneganBogotaTypeSpecimens2015",
+   "fisherSpecimensExtinctEndangered1981",
+   "forbesCatalogueCharadriomorphicBirds",
+   "forbesCatalogueCharadriomorphicBirds1900",
+   "forbesCatalogueCoraciaeCuckoorollers",
+   "forbesCatalogueLizardtailedSaururae1900",
+   "forbesCatalogueParrotsPsittaci1897",
+   "fraserCatalogueBirdsKnowsley1845",
+   "horsfieldCatalogueBirdsMuseum1858",
+   "jansenBirdCollectionMuseum2015",
+   "largenBirdSpecimensPurchased1987",
+   "largenHenrySalt178018271988",
+   "largenHenrySalt178018271988a",
+   "medwayExtantTypesNew1976",
+   "medwayExtantTypesNew1976a",
+   "mlikovskySystematicCatalogueBirds2023",
+   "morganBirdSkinsMalawi1978",
+   "slaterTypeSpecimensUrospizias2022",
+   "vlietChequeredHistoryChattering2015",
+   "vlietOriginsIdentificationType2019a",
+   "wagstaffeTypeSpecimensBirds1978",
+   "wagstaffeTypeSpecimensBirds1978a",
+   "wilsonBirdsSumatraGiven2021",
+   "wilsonGhostsEntanglementsOne",
+   "wilsonGhostsEntanglementsOne2025",
+   "wilsonTangledNomenclaturalHistory2022",
+   "wilsonWhatJohnLathams2023"
+  ],
+  "publication_count": 29
+ },
+ {
+  "id": "yio-abiko",
+  "type": "institution",
+  "name": "Yamashina ChÅruikenkyÅ«sho [Yamashina Institute of Ornithology]",
+  "abbreviation": "YIO",
+  "city": "Abiko",
+  "country": "Japan",
+  "verbatim_tags": [
+   "YIO (Abiko)",
+   "YIOA"
+  ],
+  "publications": [
+   "kakizawaListBirdSpecimens1980",
+   "kurodaTypeSpecimensBirds1966",
+   "mlikovskySystematicCatalogueBirds2023",
+   "moriokaTypesJapaneseBirds2005"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "zoz-zagreb",
+  "type": "institution",
+  "name": "Zavod za ornitologiju, Hrvatska akademija znanosti i umjetnosti [Institute of Ornithology, Croatian Academy of Sciences and Arts]",
+  "abbreviation": "ZOZ",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "verbatim_tags": [
+   "ZOZ"
+  ],
+  "publications": [
+   "susicZnanstvenaZbirkaPticjih1988"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "zmbhs-sarajevo",
+  "type": "institution",
+  "name": "Zemaljski Muzej Bosne i Hercegovine [State Museum of Bosnia and Herzegovina]",
+  "abbreviation": "ZMBHS",
+  "city": "Sarajevo",
+  "country": "Bosnia and Herzegovina",
+  "verbatim_tags": [
+   "Sarajevo C",
+   "ZMBHS"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023",
+   "reiserVogelsammlungBosnischhercegovinischenLandesmuseums1891"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "izh-halle",
+  "type": "institution",
+  "name": "Zentralmagazin Naturwissenschaftlicher Sammlungen (Zoological Collection), Martin-Luther-Universität",
+  "abbreviation": "IZH",
+  "city": "Halle",
+  "country": "Germany",
+  "verbatim_tags": [
+   "IZH (Halle)"
+  ],
+  "publications": [
+   "boetticherVerzeichnisTypenVogelsammlung1941a"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "zsi-calcutta",
+  "type": "institution",
+  "name": "Zoological Survey of India",
+  "abbreviation": "ZSI",
+  "city": "Calcutta",
+  "country": "India",
+  "verbatim_tags": [
+   "ZSI",
+   "ZSI (Calcutta)"
+  ],
+  "publications": [
+   "blythCatalogueBirdsMuseum1852",
+   "blythSupplementalNoteCatalogue1849",
+   "blythSupplementalNoteCatalogue1849a",
+   "deutiTypeSpecimensSri2000",
+   "deutiTypeSpecimensSri2000a",
+   "dickinsonSystematicNotesAsian2004",
+   "finnListBirdsIndian1901",
+   "finnListBirdsIndian1901a",
+   "mukherjeeCatalogueBirdsIndian1955",
+   "mukherjeeCatalogueBirdsZoological1986",
+   "praveenRevisionTypeLocality2024",
+   "roonwalCatalogueBirdsIndian1941",
+   "roonwalCatalogueBirdsIndian1947",
+   "sakthivelCatalogueTypeSpecimens2011",
+   "sakthivelCatalogueTypeSpecimens2011a",
+   "sclaterIndianMuseumIts1892",
+   "sclaterIndianMuseumIts1892a"
+  ],
+  "publication_count": 17
+ },
+ {
+  "id": "zsm-munich",
+  "type": "institution",
+  "name": "Zoologische Staatssammlung",
+  "abbreviation": "ZSM",
+  "city": "Munich",
+  "country": "Germany",
+  "verbatim_tags": [
+   "ZSM",
+   "ZSM (Munich)"
+  ],
+  "publications": [
+   "hellmayrRevisionSpixschenTypen1906",
+   "mlikovskySystematicCatalogueBirds2023",
+   "mlikovskyTaxonomicStatusGeotrygon",
+   "reichholfBestandTypenmaterialOrnithologischen1983",
+   "reichholfBestandTypenmaterialOrnithologischen1983a"
+  ],
+  "publication_count": 5
+ },
+ {
+  "id": "zfmk-bonn",
+  "type": "institution",
+  "name": "Zoologisches Forschungsmuseum und Museum Alexander Koenig",
+  "abbreviation": "ZFMK",
+  "city": "Bonn",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Bonn A",
+   "ZFMK",
+   "ZFMK (Bonn)"
+  ],
+  "publications": [
+   "elzenNachtrageUndErganzungen1986",
+   "elzenTypeSpecimensBird2010",
+   "elzenTypeSpecimensBird2010a",
+   "elzenTypenGuidoSchiebel1986",
+   "kirwanEriocnemisLucianiMeridae2023",
+   "konigVogelSudSudanTaxonomische1983",
+   "mlikovskySystematicCatalogueBirds2023",
+   "rheinwaldWirbeltiersammlungenMuseumsAlexander1984",
+   "schifterTypenGuidoSchiebel1986"
+  ],
+  "publication_count": 9
+ },
+ {
+  "id": "mluh-halle",
+  "type": "institution",
+  "name": "Zoologisches Institut, Martin-Luther-Universität",
+  "abbreviation": "MLUH",
+  "city": "Halle",
+  "country": "Germany",
+  "verbatim_tags": [
+   "MLUH"
+  ],
+  "publications": [
+   "boetticherVerzeichnisTypenVogelsammlung1941",
+   "kirwanNomenclaturalCorrectionsNeotype2014"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "zmka-kalinigrad",
+  "type": "institution",
+  "name": "Zoologisches Museum, Albertus-Universität",
+  "abbreviation": "ZMKa",
+  "city": "Kalinigrad",
+  "country": "Russia",
+  "verbatim_tags": [
+   "Kalinigrad C"
+  ],
+  "publications": [
+   "agafonovaPorodyDomasnihGolubej2005",
+   "dementevTipyOrnitologiceskojKollekcii1939",
+   "fadeevKatalogKollekciiSemejstva2005",
+   "fadeevKolibriKatalogKollekcii2002",
+   "fadeevKollektoryGDMCollectors2007",
+   "fadeevTipovaaSeriaLagopus2004",
+   "fadeevTipovyeEkzemplarySylvia",
+   "grangePicLilfordDendrocopos2020",
+   "kalakinOtradPiciformesOrder2001",
+   "kostinaSravnitelnaaEvoljucionnaaMorfologia1982",
+   "lavrovSistematiceskijKatalogPozvonocnyh1907",
+   "lavrovSistematiceskijKatalogPozvonocnyh1908",
+   "lavrovSistematiceskijKatalogPozvonocnyh1909",
+   "mlikovskySystematicCatalogueBirds2023",
+   "mlikovskyTaxonomicRevisionSiberian2023",
+   "nesterovKatalogSemejstvaBekasovyh2020",
+   "nesterovSemejstvoUtinyeKatalog2004",
+   "sudilovskaaDopolneniaSpiskuTipov1972",
+   "sudilovskaaTipyOrnitologiceskogoSobrania1959",
+   "sudilovskaaTipyOrnitologiceskogoSobrania1962",
+   "sudilovskaaVtoroeDopolnenieSpisku1977",
+   "zitkovSpiskiOpisaniePredmetov1901"
+  ],
+  "publication_count": 22
+ },
+ {
+  "id": "zmk-kiel",
+  "type": "institution",
+  "name": "Zoologisches Museum, Christian-Albrechts-Universität",
+  "abbreviation": "ZMK",
+  "city": "Kiel",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Kiel D"
+  ],
+  "publications": [
+   "buschingUberFarbaberranteVogel1990",
+   "buschingVogelAusAskana2011",
+   "buschingVogelsammlungJohannFriedrich",
+   "buschingVogelsammlungJohannFriedrich2003",
+   "grouwColourfulJourneyEurasian2022",
+   "justKatalogKollektionenNaumannMuseums2003",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 7
+ },
+ {
+  "id": "zmbn-bergen",
+  "type": "institution",
+  "name": "Zoologisk Museum, Universitetsmuseet i Bergen, Universitetet i Bergen [Zoological Museum, University Museum in Bergen, University of Bergen]",
+  "abbreviation": "ZMBN",
+  "city": "Bergen",
+  "country": "Norway",
+  "verbatim_tags": [
+   "Bergen C",
+   "ZMBN"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "zmspbu-saint-petersburg",
+  "type": "institution",
+  "name": "ZoologiÄeskij muzej, Kafedra zoologii pozvonoÄnyh, Sankt-Peterburgskij gosudarstvennyj universitet [Museum of Zoology, Department of Vertebrate Zoology, St. Petersburg State University]",
+  "abbreviation": "ZMSPBU",
+  "city": "Saint-Petersburg",
+  "country": "Russia",
+  "verbatim_tags": [
+   "ZMSPBU"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "zmmu-moscow",
+  "type": "institution",
+  "name": "ZoologiÄeskij muzej, Moskovskij gosudarstvennyj universitet [Zoological Museum, Moscow State University]",
+  "abbreviation": "ZMMU",
+  "city": "Moscow",
+  "country": "Russia",
+  "verbatim_tags": [
+   "ZMMU",
+   "ZMMU (Moscow)"
+  ],
+  "publications": [
+   "borissenkoTypesVertebratesZoological2001",
+   "dementevTipyOrnitologiceskojKollekcii1939",
+   "dementevTypesOrnithologicalCollection1939",
+   "grangePicLilfordDendrocopos2020",
+   "kalakinOtradPiciformesOrder2001",
+   "loskotNamebearingTypesSpecies1998",
+   "mlikovskyTaxonomicRevisionSiberian2023",
+   "sudilovskaaDopolneniaSpiskuTipov1972",
+   "sudilovskaaTipyOrnitologiceskogoSobrania1959",
+   "sudilovskaaTipyOrnitologiceskogoSobrania1962",
+   "sudilovskaaVtoroeDopolnenieSpisku1977",
+   "sudilovskayaAdditionsListTypes1972",
+   "sudilovskayaSecondAdditionTypes1977",
+   "sudilovskayaTypesOrnithologicalCollection1959",
+   "sudilovskayaTypesOrnithologicalCollection1962",
+   "zitkovSpiskiOpisaniePredmetov1901"
+  ],
+  "publication_count": 16
+ },
+ {
+  "id": "zmiza-almaty",
+  "type": "institution",
+  "name": "Zoologiâ instituty [Institute of Zoology]",
+  "abbreviation": "ZMIZA",
+  "city": "Almaty",
+  "country": "Kazakhstan",
+  "verbatim_tags": [
+   "ZMIZA",
+   "ZMIZA (Almaty)"
+  ],
+  "publications": [
+   "kovsarKatalogOrnitologiceskojKollekcii1984",
+   "kuzminaCatalogueOrnithologicalCollection1984",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 3
+ },
+ {
+  "id": "zin-saint-petersburg",
+  "type": "institution",
+  "name": "Zoologičeskij institut, Rossijskaâ akademiâ nauk [Institute of Zoology, Russian Academy of Sciences]",
+  "abbreviation": "ZIN",
+  "city": "Saint-Petersburg",
+  "country": "Russia",
+  "verbatim_tags": [
+   "ZIN (also: ZIL",
+   "ZISP (St Petersburg)",
+   "ZISP)"
+  ],
+  "publications": [
+   "bakkalAvifaunaKaribskogoBassejna",
+   "bakkalDoktorKlotBej179318682017",
+   "bakkalMaterialyPoOrnitofaune",
+   "bakkalNaturalistVladimirIvanovic",
+   "bakkalNikolajIvanovicVoskobojnikov",
+   "bakkalOrnitologiceskieMaterialyPervoj",
+   "bakkalOrnitologiceskieSboryNa",
+   "bakkalOrnitologiceskieSboryPreparatora",
+   "bakkalOrnitologiceskieSborySborsiki",
+   "bakkalOtNordmanaPo",
+   "bakkalPeterburgskieNemcyDrugie",
+   "bakkalStranstvuusijGolubEctopistes2015",
+   "belikIstoriaFormirovaniaNaucnoj2019",
+   "chrostowskiTypesDoiseauxNeotropicaux1921",
+   "chrostowskiTypesDoiseauxNeotropicaux1921a",
+   "chrostowskiTypesDoiseauxNeotropicaux1922",
+   "chrostowskiTypesDoiseauxNeotropicaux1922a",
+   "dickinsonSystematicNotesAsian2001e",
+   "loskotNamebearingTypesSubspecies2002",
+   "loskotNeotypificationLarusCachinnans2013",
+   "loskotSystematicNotesAsian2001",
+   "loskotSystematicNotesAsian2006",
+   "loskotSystematicNotesAsian2006a",
+   "loskotTypeSpecimensLocustella2002",
+   "loskotTypeSpecimensSylvia2002",
+   "loskotTypeSpecimensType2016",
+   "mlikovskyNeotypificationLarusCachinnans2013",
+   "mlikovskyNomenclaturalTaxonomicStatus2011",
+   "mlikovskySystematicCatalogueBirds2023",
+   "mlikovskyTaxonomicRevisionSiberian2023",
+   "mlikovskyTypeSpecimensType2016a",
+   "nejfeldtVymersiePticyKollekcii1978",
+   "nemesioNomenclaturalIssuesOrnithology2013",
+   "raposoCorrectUseName2006",
+   "raposoSaoJoaoRei2012",
+   "yamasakiNeotypeDesignationShorttailed2022"
+  ],
+  "publication_count": 36
+ },
+ {
+  "id": "zmdvgu-vladivostok",
+  "type": "institution",
+  "name": "Zoologičeskij muzej [Zoological Museum], Dal′nevostočnyj gosudarstvennyj universitet [Far- Eastern State University]",
+  "abbreviation": "ZMDVGU",
+  "city": "Vladivostok",
+  "country": "Russia",
+  "verbatim_tags": [
+   "ZMDVGU",
+   "ZMDVGU (Vladivostok)"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023",
+   "redkinNewSubspeciesRock2005"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "zmsfu-krasnoarsk",
+  "type": "institution",
+  "name": "Zoologičeskij muzej [Zoological Museum], Sibirskij federal′nyj universitet [Siberian Federal University]",
+  "abbreviation": "ZMSFU",
+  "city": "Krasnoârsk",
+  "country": "Russia",
+  "verbatim_tags": [
+   "ZMSFU"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "zmek-kazan",
+  "type": "institution",
+  "name": "Zoologičeskij muzej È.A. Èversmanna, Kazanskij federal′nyj universitet [È.A. Èversmann Zoological Museum, Federal University of Kazan′]",
+  "abbreviation": "ZMEK",
+  "city": "Kazan",
+  "country": "Russia",
+  "verbatim_tags": [
+   "ZMEK"
+  ],
+  "publications": [
+   "lavrovSistematiceskijKatalogPozvonocnyh1907",
+   "lavrovSistematiceskijKatalogPozvonocnyh1908",
+   "lavrovSistematiceskijKatalogPozvonocnyh1909",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "zmsfur-rostov-na-donu",
+  "type": "institution",
+  "name": "Zoologičeskij muzej, Kafedra Zoologii, Ûžnyj federal′nyj universitet [Zoological Museum Department of Zoology, Southern Federal University]",
+  "abbreviation": "ZMSFUR",
+  "city": "Rostov-na-Donu",
+  "country": "Russia",
+  "verbatim_tags": [
+   "Rostov-na-Donu D",
+   "ZMSFUR"
+  ],
+  "publications": [
+   "bakkalAvifaunaKaribskogoBassejna",
+   "bakkalDoktorKlotBej179318682017",
+   "bakkalMaterialyPoOrnitofaune",
+   "bakkalNaturalistVladimirIvanovic",
+   "bakkalNikolajIvanovicVoskobojnikov",
+   "bakkalOrnitologiceskieMaterialyPervoj",
+   "bakkalOrnitologiceskieSboryNa",
+   "bakkalOrnitologiceskieSboryPreparatora",
+   "bakkalOrnitologiceskieSborySborsiki",
+   "bakkalOtNordmanaPo",
+   "bakkalPeterburgskieNemcyDrugie",
+   "bakkalStranstvuusijGolubEctopistes2015",
+   "belikIstoriaFormirovaniaNaucnoj2019",
+   "chrostowskiTypesDoiseauxNeotropicaux1921",
+   "chrostowskiTypesDoiseauxNeotropicaux1922",
+   "loskotSystematicNotesAsian2001",
+   "loskotSystematicNotesAsian2006",
+   "mlikovskyNeotypificationLarusCachinnans2013",
+   "mlikovskyNomenclaturalTaxonomicStatus2011",
+   "mlikovskySystematicCatalogueBirds2023",
+   "mlikovskyTaxonomicRevisionSiberian2023",
+   "mlikovskyTypeSpecimensType2016a",
+   "nejfeldtVymersiePticyKollekcii1978",
+   "nemesioNomenclaturalIssuesOrnithology2013",
+   "raposoCorrectUseName2006",
+   "raposoSaoJoaoRei2012",
+   "salomatinaKatalogKollekciiZivotnyh2024",
+   "timofeenkoKatalogKollekciiZoologiceskogo2025"
+  ],
+  "publication_count": 28
+ },
+ {
+  "id": "zmau-aberdeen",
+  "type": "institution",
+  "name": "Zoology Museum, University of Aberdeen",
+  "abbreviation": "ZMAU",
+  "city": "Aberdeen",
+  "country": "United Kingdom",
+  "verbatim_tags": [
+   "Aberdeen C",
+   "ZMAU"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "zmku-kiev",
+  "type": "institution",
+  "name": "Zoologìčnij muzej, Ìnstitut bìologìï, Kiìvs′kij nacìonal′nij unìversitet ìmenì Tarasa Ševčenka [Zoological Museum, Institute of Biology, Taras Shevchenko National University of Kiev]",
+  "abbreviation": "ZMKU",
+  "city": "Kiev",
+  "country": "Ukraine",
+  "verbatim_tags": [
+   "ZMKU"
+  ],
+  "publications": [
+   "andrzejowskiCatalogueObjetsQui1839",
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "zma-amsterdam",
+  "type": "institution",
+  "name": "Zoölogisch Museum, Universiteit van Amsterdam [Zoological Museum, University of Amsterdam]",
+  "abbreviation": "ZMA",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "verbatim_tags": [
+   "Amsterdam X",
+   "ZMA"
+  ],
+  "publications": [
+   "roselaarListTypeSpecimens2000",
+   "wattelHybridDucksCollection1968"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "zmpa-athens",
+  "type": "institution",
+  "name": "ZÅologiko Moyseio, PanepistÄ«mioy AthÄ«nÅs [Zoological Museum, University of Athens]",
+  "abbreviation": "ZMPA",
+  "city": "Athens",
+  "country": "Greece",
+  "verbatim_tags": [
+   "ZMPA"
+  ],
+  "publications": [
+   "lindermayerCatalogueBirdsAccording1840",
+   "papastefanou1NovAvian2016"
+  ],
+  "publication_count": 2
+ },
+ {
+  "id": "ziask-pyongyang",
+  "type": "institution",
+  "name": "[Zoological Institute], Joseonminjujuuiinmingonghwaguggwahag-won [Academy of Sciences of the Democratic People’s Republic of Korea]",
+  "abbreviation": "ZIASK",
+  "city": "Pyongyang",
+  "country": "North Korea",
+  "verbatim_tags": [
+   "ZIASK"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "bnu-beijing",
+  "type": "institution",
+  "name": "[Zoological and Botanical Museum], Běijīng shīfàn dàxué [Beijing Normal University]",
+  "abbreviation": "BNU",
+  "city": "Beijing",
+  "country": "China",
+  "verbatim_tags": [
+   "BNU"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "umb-bremen",
+  "type": "institution",
+  "name": "Übersee-Museum",
+  "abbreviation": "UMB",
+  "city": "Bremen",
+  "country": "Germany",
+  "verbatim_tags": [
+   "Bremen A",
+   "UMB",
+   "UMB (Bremen)"
+  ],
+  "publications": [
+   "hartlaubErsterNachtragVerzeichniss1846",
+   "hartlaubSystematischesVerzeichnissNaturhistorischen1844",
+   "osesVogeltypenOrnithologischenSammlung2010",
+   "sanchezVogeltypenOrnithologischenSammlung2010"
+  ],
+  "publication_count": 4
+ },
+ {
+  "id": "smb-bardejov",
+  "type": "institution",
+  "name": "Šarišské múzeum [Šariš Museum]",
+  "abbreviation": "SMB",
+  "city": "Bardejov",
+  "country": "Slovakia",
+  "verbatim_tags": [
+   "Bardejov D",
+   "SMB"
+  ],
+  "publications": [
+   "csanadyBirdsPreyCollections2024",
+   "csanadyMoreCollectionScientific2025",
+   "hromadaTiborWeisz2015",
+   "hromadaValueBirdCollections2003",
+   "mikulaAberrantPlumageColouration2017",
+   "mikulaCriticalEvaluationExotic2018"
+  ],
+  "publication_count": 6
+ },
+ {
+  "id": "fhcss-seoul",
+  "type": "institution",
+  "name": "‘First Higher Common School in Seoul’; also called “Seoul Common Higher School’, or ‘Seoul Higher Common School’.",
+  "abbreviation": "FHCSS",
+  "city": "Seoul",
+  "country": "South Korea",
+  "verbatim_tags": [
+   "FHCSS"
+  ],
+  "publications": [
+   "mlikovskySystematicCatalogueBirds2023"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "country-australia",
+  "type": "country",
+  "name": "Australia",
+  "abbreviation": null,
+  "city": null,
+  "country": "Australia",
+  "verbatim_tags": [
+   "Australia"
+  ],
+  "publications": [
+   "mcallanTypesBirdsAves2016a"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "country-canada",
+  "type": "country",
+  "name": "Canada",
+  "abbreviation": null,
+  "city": null,
+  "country": "Canada",
+  "verbatim_tags": [
+   "Canada"
+  ],
+  "publications": [
+   "sealyTypeSpecimensAvian2019a"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "country-france",
+  "type": "country",
+  "name": "France",
+  "abbreviation": null,
+  "city": null,
+  "country": "France",
+  "verbatim_tags": [
+   "France"
+  ],
+  "publications": [
+   "gouraudBuffonSpecimensBaillon"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "country-germany",
+  "type": "country",
+  "name": "Germany",
+  "abbreviation": null,
+  "city": null,
+  "country": "Germany",
+  "verbatim_tags": [
+   "Germany"
+  ],
+  "publications": [
+   "mlikovskyTypeSpecimensAnthus2013a"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "country-new-zealand",
+  "type": "country",
+  "name": "New Zealand",
+  "abbreviation": null,
+  "city": null,
+  "country": "New Zealand",
+  "verbatim_tags": [
+   "New Zealand"
+  ],
+  "publications": [
+   "gillWilliamSmyth183819132018"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "country-poland",
+  "type": "country",
+  "name": "Poland",
+  "abbreviation": null,
+  "city": null,
+  "country": "Poland",
+  "verbatim_tags": [
+   "Poland"
+  ],
+  "publications": [
+   "tomialojcMainOrnithologicalCollections2003"
+  ],
+  "publication_count": 1
+ },
+ {
+  "id": "country-russia",
+  "type": "country",
+  "name": "Russia",
+  "abbreviation": null,
+  "city": null,
+  "country": "Russia",
+  "verbatim_tags": [
+   "Russia"
+  ],
+  "publications": [
+   "mlikovskyTypeSpecimensAnthus2013a"
+  ],
+  "publication_count": 1
+ }
+]
